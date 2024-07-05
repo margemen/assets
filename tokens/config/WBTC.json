@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Bitcoin",
+  "website": "https://wbtc.network/",
+  "description": "-",
+  "explorer": "https://evmexplorer.velas.com/address/0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+  "links": []
+}

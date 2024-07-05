@@ -1,0 +1,25 @@
+{
+  "symbol":"WAND",
+  "name":"WAND Token",
+  "address":"0x230f0C01b8e2c027459781E6a56dA7e1876EFDbe",
+  "description":"Wanlend Token on Wanchain",
+  "website":"https://wanlend.finance/",
+  "auditReport":{
+    "TechRate":"",
+    "Certik":""
+  },
+  "logo":"https://token-icons.vercel.app/256x256/WAND.png",
+  "sourceCode":"https://www.wanscan.org/token/0x230f0C01b8e2c027459781E6a56dA7e1876EFDbe",
+  "communities":{
+    "email":"techsupport@wanchain.org",
+    "telegram":"https://t.me/WanLendV2",
+    "reddit":"",
+    "medium":"https://medium.com/wanlend",
+    "youtube":"",
+    "twitter":"https://twitter.com/wanlend",
+    "facebook":"",
+    "github":"https://github.com/wandevs",
+    "coinmarketcap":"",
+    "coingecko":""
+  }
+}

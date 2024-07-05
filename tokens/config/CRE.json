@@ -1,0 +1,18 @@
+          {
+              "symbol": "CRE",
+              "name": "Crescite",
+              "description": "The world’s first faith-based governance token.",
+              "website": "https://crescite.org/",
+              "auditReport": {
+                  "TechRate": "TBC",
+                  "Certik": "TBC"
+              },
+              "communities": {
+                  "email": "info@crescite.org",
+                  "telegram": "https://t.me/+e5MXfrGlYI04MWQ5",
+                  "instagram": "https://www.instagram.com/crescitetoken/",
+                  "twitter": "https://twitter.com/Crescitetoken",
+                  "facebook": "https://www.facebook.com/groups/crescite",
+                  "gitlab": "https://gitlab.com/lab577/crescite-token"
+              }
+          }

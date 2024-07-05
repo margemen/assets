@@ -1,0 +1,11 @@
+{
+  "name": "Flickto",
+  "symbol": "FLICK",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.flickto.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0x07f4154b0ebf48675e85e7b4675d3cdace45ba51",
+  "status": "active",
+  "id": "0x07f4154b0ebf48675e85e7b4675d3cdace45ba51"
+}

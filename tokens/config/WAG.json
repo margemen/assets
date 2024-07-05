@@ -1,0 +1,11 @@
+{
+  "name": "WAGToken",
+  "symbol": "WAG",
+  "type": "VRC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://wagyuswap.app/",
+  "explorer": "https://evmexplorer.velas.com/address/0xabf26902fd7b624e0db40d31171ea9dddf078351",
+  "status": "active",
+  "id": "0xabf26902fd7b624e0db40d31171ea9dddf078351"
+}

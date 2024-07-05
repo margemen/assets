@@ -1,0 +1,25 @@
+{
+  "symbol":"wanOCEAN",
+  "name":"wanOCEAN@wanchain",
+  "address":"0x8f587d955f3cf200290426f91a7c3687787ed703",
+  "description":"Wrapped OCEAN on Wanchain",
+  "website":"https://www.wanchain.org/",
+  "auditReport":{
+    "TechRate":"",
+    "Certik":""
+  },
+  "logo":"https://token-icons.vercel.app/256x256/wanOCEAN.png",
+  "sourceCode":"https://www.wanscan.org/token/0x8f587d955f3cf200290426f91a7c3687787ed703",
+  "communities":{
+    "email":"techsupport@wanchain.org",
+    "telegram":"https://t.me/WanchainCHAT",
+    "reddit":"https://www.reddit.com/r/wanchain/",
+    "medium":"https://medium.com/wanchain-foundation",
+    "youtube":"https://www.youtube.com/channel/UCW_i8cncT0d1RyX7YCA_oKQ",
+    "twitter":"https://twitter.com/wanchain_org",
+    "facebook":"https://m.facebook.com/wanchainfoundation/",
+    "github":"https://github.com/wanchain",
+    "coinmarketcap":"https://coinmarketcap.com/currencies/ocean-protocol/",
+    "coingecko":"https://www.coingecko.com/en/coins/ocean-protocol"
+  }
+}

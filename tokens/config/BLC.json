@@ -1,0 +1,11 @@
+{
+  "name": "IBILECOIN",
+  "symbol": "BLC",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://ibilecoin.com/",
+  "explorer": "https://evmexplorer.velas.com/address/0x0d42a3b0ca326478e0569361130f8bb03c5824ad",
+  "status": "active",
+  "id": "0x0d42a3b0ca326478e0569361130f8bb03c5824ad"
+}

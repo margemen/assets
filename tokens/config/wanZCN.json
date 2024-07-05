@@ -1,0 +1,24 @@
+{
+    "symbol":"wanZCN",
+    "name":"wanZCN@wanchain",
+    "address":"0xF1D0ad0C4a612EcF4931b673245f1FC2935BccdC",
+    "description":"Wrapped ZCN on Wanchain",
+    "website":"https://www.wanchain.org/",
+    "auditReport":{
+      "TechRate":"",
+      "Certik":""
+    },
+    "communities":{
+      "email":"techsupport@wanchain.org",
+      "telegram":"https://t.me/WanchainCHAT",
+      "reddit":"https://www.reddit.com/r/wanchain/",
+      "medium":"https://medium.com/wanchain-foundation",
+      "youtube":"https://www.youtube.com/channel/UCW_i8cncT0d1RyX7YCA_oKQ",
+      "twitter":"https://twitter.com/wanchain_org",
+      "facebook":"https://m.facebook.com/wanchainfoundation/",
+      "github":"https://github.com/wanchain",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/0chain/",
+      "coingecko":"https://www.coingecko.com/en/coins/0chain"
+    },
+  }
+  

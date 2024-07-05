@@ -1,0 +1,22 @@
+{
+    "symbol": "EURS",
+    "name": "STASIS EURO",
+    "description": "",
+    "website": "https://eurs.stasis.net/",
+    "auditReport": {
+        "TechRate": "",
+        "Certik": ""
+    },
+    "communities": {
+        "email": "co@stasis.net",
+        "telegram": "https://t.me/STASIS",
+        "youtube": "https://www.youtube.com/@stasiseurs1803",
+        "twitter": "https://twitter.com/stasisnet",
+        "facebook": "https://www.facebook.com/stasisnet",
+        "github": "https://github.com/stasisnet",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/stasis-euro/",
+        "discord": "https://discord.gg/Q8HWPgnKEC",
+        "medium": "https://medium.com/stasis-blog",
+        "coingecko": "https://www.coingecko.com/en/coins/stasis-eurs"
+    }
+}

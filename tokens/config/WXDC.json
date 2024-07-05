@@ -1,0 +1,23 @@
+{
+    "symbol": "WXDC",
+    "name": "Wrapped XDC",
+    "description": "",
+    "website": "https://xinfin.org",
+"auditReport": {
+"SlowMist":"https://github.com/XinFinOrg/Audit/blob/main/XDPoSChain_SlowMist_Audit.pdf"
+},
+    "communities": {
+        "email": "support@xinfin.org",
+        "telegram": "https://t.me/xinfin",
+        "reddit": "https://www.reddit.com/r/xinfin/",
+        "medium": "https://medium.com/xinfin",
+        "youtube": "https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g",
+        "twitter": "https://twitter.com/XinFin_Official",
+        "facebook": "https://www.facebook.com/XinFinHybridBlockchain/",
+        "github": "https://github.com/XinFinorg",
+        "linkedin": "https://www.linkedin.com/company/xinfin/",
+        "discord": "https://discord.com/invite/KZdD6pkFxp",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/xinfin-network/",
+        "coingecko": "https://www.coingecko.com/en/coins/xdc-network"
+    }
+}

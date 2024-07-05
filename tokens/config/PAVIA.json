@@ -1,0 +1,11 @@
+{
+  "name": "Pavia",
+  "symbol": "PAVIA",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.pavia.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0x3ed96aaaba90d2e4642a917d65613784124b5793",
+  "status": "active",
+  "id": "0x3ed96aaaba90d2e4642a917d65613784124b5793"
+}

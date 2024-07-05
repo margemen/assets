@@ -1,0 +1,11 @@
+{
+  "name": "Cardano Gold",
+  "symbol": "CARGO",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.cardanogoldcoin.com/",
+  "explorer": "https://evmexplorer.velas.com/address/0x6df6b678271766479bf0253d9b4fd1cf8e4db911",
+  "status": "active",
+  "id": "0x6df6b678271766479bf0253d9b4fd1cf8e4db911"
+}

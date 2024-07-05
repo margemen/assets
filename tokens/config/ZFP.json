@@ -1,0 +1,9 @@
+{
+    "symbol": "ZFP",
+    "name": "ZeroFeePunks",
+    "description": "These Punks taking advantage of the close to zero fees on the EVM compatible XDC network",
+    "website": "",
+    "communities": {
+        "twitter": "https://twitter.com/zerofeepunks"
+    }
+}

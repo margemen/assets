@@ -1,0 +1,11 @@
+{
+  "name": "Black Doge",
+  "symbol": "BDOGE",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://blackdoge.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0x74bc215bba14e8c550ccb168e96e4db1244db3ae",
+  "status": "active",
+  "id": "0x74bc215bba14e8c550ccb168e96e4db1244db3ae"
+}

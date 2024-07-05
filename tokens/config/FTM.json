@@ -1,0 +1,13 @@
+{
+  "name": "Fantom",
+  "website": "http://fantom.foundation/",
+  "description": "-",
+  "explorer": "https://evmexplorer.velas.com/address/0xc9b3aa6e91d70f4ca0988d643ca2bb93851f3de4",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "FTM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc9b3aa6e91d70f4ca0988d643ca2bb93851f3de4",
+  "links": []
+}

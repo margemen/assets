@@ -1,0 +1,11 @@
+{
+  "name": "anetaBTC",
+  "symbol": "cNETA",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://anetabtc.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0xd3ee69c96e50c6abf90d20102433f41bee6a3eef",
+  "status": "active",
+  "id": "0xd3ee69c96e50c6abf90d20102433f41bee6a3eef"
+}

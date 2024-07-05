@@ -1,0 +1,11 @@
+{
+  "name": "Ardana",
+  "symbol": "DANA",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://ardana.org/",
+  "explorer": "https://evmexplorer.velas.com/address/0x87d506b45d3398a49f95d0e4b26f645dc74fe105",
+  "status": "active",
+  "id": "0x87d506b45d3398a49f95d0e4b26f645dc74fe105"
+}

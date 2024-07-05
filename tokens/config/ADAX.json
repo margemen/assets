@@ -1,0 +1,11 @@
+{
+  "name": "ADAX",
+  "symbol": "ADAX",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://adax.pro",
+  "explorer": "https://evmexplorer.velas.com/address/0xd579b8b50200739ddd74e9255a75de6f4716d14d",
+  "status": "active",
+  "id": "0xd579b8b50200739ddd74e9255a75de6f4716d14d"
+}

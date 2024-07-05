@@ -1,0 +1,25 @@
+{
+  "symbol":"wanTUSD",
+  "name":"wanTUSD@wanchain",
+  "address":"0x1efda4cfb47652d2193430c8da773d0d2dc425f8",
+  "description":"Wrapped TUSD on Wanchain",
+  "website":"https://www.wanchain.org/",
+  "auditReport":{
+    "TechRate":"",
+    "Certik":""
+  },
+  "logo":"https://token-icons.vercel.app/256x256/wanTUSD.png",
+  "sourceCode":"https://www.wanscan.org/token/0x1efda4cfb47652d2193430c8da773d0d2dc425f8",
+  "communities":{
+    "email":"techsupport@wanchain.org",
+    "telegram":"https://t.me/WanchainCHAT",
+    "reddit":"https://www.reddit.com/r/wanchain/",
+    "medium":"https://medium.com/wanchain-foundation",
+    "youtube":"https://www.youtube.com/channel/UCW_i8cncT0d1RyX7YCA_oKQ",
+    "twitter":"https://twitter.com/wanchain_org",
+    "facebook":"https://m.facebook.com/wanchainfoundation/",
+    "github":"https://github.com/wanchain",
+    "coinmarketcap":"https://coinmarketcap.com/currencies/true-usd/",
+    "coingecko":"https://www.coingecko.com/en/coins/true-usd"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "symbol":"ZOO",
+  "name":"ZOO Token",
+  "address":"0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F",
+  "description":"Zookeeper Token on Wanchain",
+  "website":"https://www.zookeeper.finance/",
+  "auditReport":{
+    "TechRate":"",
+    "HAECHI":"https://github.com/ZooFarming/Audit/blob/main/%5BHAECHI%20AUDIT%5D%20Zoo%20Farming%20Security%20Audit%20Report_v1.1.pdf/",
+    
+  },
+  "communities":{
+    "email":"fennec@zookeeper.finance",
+    "telegram":"https://twitter.com/ZooEcosystem",
+    "reddit":"https://www.reddit.com/r/ZooEcosystem/",
+    "medium":"https://medium.com/@ZooEcosystem",
+    "youtube":"https://www.youtube.com/c/ZooFarming",
+    "twitter":"https://twitter.com/ZooEcosystem",
+    "facebook":"https://m.facebook.com/wanchainfoundation/",
+    "github":"https://github.com/zoofarming",
+    "coinmarketcap":"https://coinmarketcap.com/currencies/zookeeper/",
+    "coingecko":"https://www.coingecko.com/en/coins/zookeeper"
+  },
+}

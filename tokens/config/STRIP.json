@@ -1,0 +1,11 @@
+{
+  "name": "StripperCoin",
+  "symbol": "STRIP",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.strippercoin.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0x490e88ae8f578483baf49434f7d3ad57ea634fc2",
+  "status": "active",
+  "id": "0x490e88ae8f578483baf49434f7d3ad57ea634fc2"
+}

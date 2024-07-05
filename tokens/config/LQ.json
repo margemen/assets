@@ -1,0 +1,11 @@
+{
+  "name": "Liqwid Finance",
+  "symbol": "LQ",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.liqwid.finance/",
+  "explorer": "https://evmexplorer.velas.com/address/0x07bfb2da0f5204f1a9e48f0d7dc0442ec953e318",
+  "status": "active",
+  "id": "0x07bfb2da0f5204f1a9e48f0d7dc0442ec953e318"
+}

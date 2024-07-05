@@ -1,0 +1,11 @@
+{
+  "name": "Minswap",
+  "symbol": "MINT",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://minswap.org/",
+  "explorer": "https://evmexplorer.velas.com/address/0x5303129f97cd3784748837362986fffacc985504",
+  "status": "active",
+  "id": "0x5303129f97cd3784748837362986fffacc985504"
+}

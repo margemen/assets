@@ -1,0 +1,13 @@
+{
+  "name": "USD Velero Stablecoin",
+  "website": "https://velero.finance/",
+  "description": "The first collateral-based stablecoin on Velas",
+  "explorer": "https://evmexplorer.velas.com/address/0xcD7509b76281223f5B7d3aD5d47F8D7Aa5C2B9bf",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "USDV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcD7509b76281223f5B7d3aD5d47F8D7Aa5C2B9bf",
+  "links": []
+}

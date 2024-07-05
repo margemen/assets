@@ -1,0 +1,25 @@
+{
+  "symbol":"EOS",
+  "name":"Wanchain EOS Crosschain Token",
+  "address":"0x81862b7622ced0defb652addd4e0c110205b0040",
+  "description":"Wrapped EOS on Wanchain",
+  "website":"https://www.wanchain.org/",
+  "auditReport":{
+    "TechRate":"",
+    "Certik":""
+  },
+  "logo":"https://token-icons.vercel.app/256x256/wanEOS.png",
+  "sourceCode":"https://www.wanscan.org/token/0x81862b7622ced0defb652addd4e0c110205b0040",
+  "communities":{
+    "email":"techsupport@wanchain.org",
+    "telegram":"https://t.me/WanchainCHAT",
+    "reddit":"https://www.reddit.com/r/wanchain/",
+    "medium":"https://medium.com/wanchain-foundation",
+    "youtube":"https://www.youtube.com/channel/UCW_i8cncT0d1RyX7YCA_oKQ",
+    "twitter":"https://twitter.com/wanchain_org",
+    "facebook":"https://m.facebook.com/wanchainfoundation/",
+    "github":"https://github.com/wanchain",
+    "coinmarketcap":"https://coinmarketcap.com/currencies/eos/",
+    "coingecko":"https://www.coingecko.com/en/coins/eos"
+  }
+}

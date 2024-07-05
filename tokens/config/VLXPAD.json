@@ -1,0 +1,22 @@
+{
+  "name": "Velas Pad",
+  "website": "https://velaspad.io/",
+  "description": "The officially endorsed Velas launchpad",
+  "explorer": "https://evmexplorer.velas.com/address/0xa065e0858417dfc7abc6f2bd4d0185332475c180",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "VLXPAD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa065e0858417dfc7abc6f2bd4d0185332475c180",
+  "links": [
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/tether/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/tether/"
+    }
+  ]
+}

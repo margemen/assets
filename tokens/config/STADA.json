@@ -1,0 +1,11 @@
+{
+  "name": "StakeADA",
+  "symbol": "STADA",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://stada.pro/",
+  "explorer": "https://evmexplorer.velas.com/address/0x0aa0daa9f89c7314ca8c7060db2d8224732162ca",
+  "status": "active",
+  "id": "0x0aa0daa9f89c7314ca8c7060db2d8224732162ca"
+}

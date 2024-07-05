@@ -1,0 +1,11 @@
+{
+  "name": "Charlz Token",
+  "symbol": "CHRLZ",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.charlz.io/charlztoken52257244",
+  "explorer": "https://evmexplorer.velas.com/address/0xd0f9966476e5a79ef5fee6f36deb7771c3f2876a",
+  "status": "active",
+  "id": "0xd0f9966476e5a79ef5fee6f36deb7771c3f2876a"
+}

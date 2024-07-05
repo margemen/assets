@@ -1,0 +1,25 @@
+{
+  "symbol":"vZOO",
+  "name":"vZOO Token",
+  "address":"0xf46F29950116cc374868A981861CA4F942eD7269",
+  "description":"Zookeeper Crosschain Token on Wanchain",
+  "website":"https://www.zookeeper.finance/",
+  "auditReport":{
+    "TechRate":"",
+    "Certik":""
+  },
+  "logo":"https://token-icons.vercel.app/256x256/vZOO.png",
+  "sourceCode":"https://www.wanscan.org/token/0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f",
+  "communities":{
+    "email":"fennec@zookeeper.finance",
+    "telegram":"https://twitter.com/ZooEcosystem",
+    "reddit":"https://www.reddit.com/r/ZooEcosystem/",
+    "medium":"https://medium.com/@ZooEcosystem",
+    "youtube":"https://www.youtube.com/c/ZooFarming",
+    "twitter":"https://twitter.com/ZooEcosystem",
+    "facebook":"",
+    "github":"https://github.com/zoofarming",
+    "coinmarketcap":"https://coinmarketcap.com/currencies/zookeeper/",
+    "coingecko":"https://www.coingecko.com/en/coins/zookeeper"
+  }
+}

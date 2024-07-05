@@ -1,0 +1,11 @@
+{
+  "name": "ADALend",
+  "symbol": "ADAL",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://adalend.finance/",
+  "explorer": "https://evmexplorer.velas.com/address/0x7f332ebf0519eb48661e1faa8c4724f9ab9fd3ce",
+  "status": "active",
+  "id": "0x7f332ebf0519eb48661e1faa8c4724f9ab9fd3ce"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DripDropz",
+  "symbol": "DRIP",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://dripdropz.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0xc3406fc71d0491f7590f27076867445bfcc48a9a",
+  "status": "active",
+  "id": "0xc3406fc71d0491f7590f27076867445bfcc48a9a"
+}

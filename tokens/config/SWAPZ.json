@@ -1,0 +1,13 @@
+{
+  "name": "SWAPZ.app",
+  "website": "https://swapz.app/",
+  "description": "The Swapz stablecoin protocol enables cross-chain trading across all EVM compatible blockchains.",
+  "explorer": "https://evmexplorer.velas.com/address/0x9b6fbf0ea23faf0d77b94d5699b44062e5e747ac",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "SWAPZ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9b6fbf0ea23faf0d77b94d5699b44062e5e747ac",
+  "links": []
+}

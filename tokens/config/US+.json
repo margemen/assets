@@ -1,0 +1,22 @@
+{
+  "symbol": "US+",
+  "name": "US Plus",
+  "description": "A federated, bank-led stablecoin with fully auditable, 1:1 exchanges with fiat and US Plus.",
+  "website": "https://www.fluent.finance/",
+  "auditReport": {
+      "TechRate": "",
+      "Certik": ""
+  },
+  "communities": {
+      "email": "info@fluent.finance",
+      "telegram": "",
+      "reddit": "",
+      "medium": "https://fluentfinance.medium.com/",
+      "youtube": "",
+      "twitter": "https://twitter.com/fluentdao",
+      "facebook": "",
+      "github": "https://github.com/Fluent-Finance/",
+      "coinmarketcap": "",
+      "coingecko": ""
+  }
+}

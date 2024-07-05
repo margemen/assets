@@ -1,0 +1,11 @@
+{
+  "name": "AADA Finance",
+  "symbol": "AADA",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://aada.finance",
+  "explorer": "https://evmexplorer.velas.com/address/0x478bcae58d38a1fde507eab3ff2251b60e53863a",
+  "status": "active",
+  "id": "0x478bcae58d38a1fde507eab3ff2251b60e53863a"
+}

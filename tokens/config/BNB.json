@@ -1,0 +1,13 @@
+{
+  "name": "BNB",
+  "website": "https://www.binance.com/",
+  "description": "-",
+  "explorer": "https://evmexplorer.velas.com/address/0x2b8e9cd44c9e09d936149549a8d207c918ecb5c4",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "BNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2b8e9cd44c9e09d936149549a8d207c918ecb5c4",
+  "links": []
+}

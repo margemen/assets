@@ -1,0 +1,11 @@
+{
+  "name": "HOSKY",
+  "symbol": "HOSKY",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://hosky.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0x95e922a37cc593c9397bbd579a443ed90c6c5ce2",
+  "status": "active",
+  "id": "0x95e922a37cc593c9397bbd579a443ed90c6c5ce2"
+}

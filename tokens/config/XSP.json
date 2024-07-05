@@ -1,0 +1,18 @@
+{
+    "symbol": "XSP",
+    "name": "XSP Token",
+    "description": "",
+    "website": "https://xspswap.finance",
+"auditReport": {
+    "TechRate":"https://github.com/XSwapProtocol/Smart-Contract-Audits/blob/main/October/XSP%20Token.pdf",
+    "Certik":"https://www.certik.com/projects/xswap-protocol?utm_source=CMC&utm_campaign=AuditByCertiKLink"
+    },
+    "communities": {
+        "email": "support@xspswap.finance",
+        "telegram": "https://t.me/real_XSwapProtocol",
+        "medium": "https://medium.com/@XSwap_Protocol",
+        "youtube": "https://www.youtube.com/channel/UCsiOw2iKmIu-LzVBdsd3Mfw",
+        "twitter": "https://twitter.com/XSwapProtocol",
+        "github": "https://github.com/XSwapProtocol"
+    }
+}

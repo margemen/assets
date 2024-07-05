@@ -1,0 +1,11 @@
+{
+  "name": "GOKEY",
+  "symbol": "GOKEY",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://gokey.network/",
+  "explorer": "https://evmexplorer.velas.com/address/0x7beef0aa4f60e2ba88d4c7fc4ac662961337833c",
+  "status": "active",
+  "id": "0x7beef0aa4f60e2ba88d4c7fc4ac662961337833c"
+}

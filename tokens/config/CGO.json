@@ -1,0 +1,35 @@
+{
+  "symbol": "CGO",
+  "name": "Comtech Gold",
+  "description": "ComTech follows 100% Shariah guidelines making it the first token of its kind. Each token is backed by a piece of gold that carries its own audit trail of its transactions.\r\n \r\nOne CGO represents one pure gram of gold. Fully backed, redeemable, and regulated. There is no investment-grade gold product that is both easy to own and easy to trade. Physical gold is hard to store and transport. Gold futures are easy to trade but don't give you ownership of the underlying commodity. ComTech solves this problem by providing a 100% gold-backed cryptocurrency.",
+  "website": "https://comtechgold.com/",
+  "whitepaper": "https://www.comtechgold.com/assets/whitepaper/cgo_whitepaper_v1.pdf",
+  "auditReport":{
+    "DeFiMoon":"https://www.comtechgold.com/assets/ComtechGold_New_Audit.pdf"
+  },
+  "rwa": {
+    "type": "RWAs",
+    "peg": "Fixed - To Commodity",
+    "collate": "100%",
+    "storageOfAssets": "The secure storage provider (TransGuard, Brinks) has a comprehensive, global insurance policy that includes the insurance cover on your gold stored in their vaults.",
+    "rwaAudit":{
+      "Shariah Certification":"https://www.comtechgold.com/assets/Fatwa_Comtech_gold_token_Executed.pdf",
+      "Routine Audit":"https://www.comtechgold.com/Routine"
+    }
+  },
+  "communities": {
+    "email": "info@comtechgold.com",
+    "telegram": "https://t.me/ComTechGold ",
+    "reddit": "https://www.reddit.com/r/ComTechGold/",
+    "medium": "https://medium.com/@comtech",
+    "youtube": "https://www.youtube.com/channel/UCh6TF0kcmIHkO-1jG7eKH_w",
+    "twitter": "https://twitter.com/ComTechOfficial",
+    "facebook": "https://fb.me/ComTechGold",
+    "github": "https://github.com/ComTechGold",
+    "linkedin": "https://www.linkedin.com/company/comtechofficial/",
+    "discord": "https://discord.gg/T6wNqjXpt2",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/comtech-gold/",
+    "coingecko": "https://www.coingecko.com/en/coins/comtech-gold"
+    
+  }
+}

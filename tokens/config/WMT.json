@@ -1,0 +1,11 @@
+{
+  "name": "World Mobile Token",
+  "symbol": "WMT",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://worldmobiletoken.com/",
+  "explorer": "https://evmexplorer.velas.com/address/0xf8306d5344da9f0ba7fe87f51abf39a10a4455f3",
+  "status": "active",
+  "id": "0xf8306d5344da9f0ba7fe87f51abf39a10a4455f3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MELD",
+  "symbol": "MELD",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://meld.com/",
+  "explorer": "https://evmexplorer.velas.com/address/0xa5dcd54e78431f912d39e45174de23cde3842795",
+  "status": "active",
+  "id": "0xa5dcd54e78431f912d39e45174de23cde3842795"
+}

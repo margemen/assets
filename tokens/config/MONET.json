@@ -1,0 +1,11 @@
+{
+  "name": "MONET",
+  "symbol": "MONET",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "-",
+  "explorer": "https://evmexplorer.velas.com/address/0xcbb18fd7756b94417bd0b0c7b5b02847cae60e6f",
+  "status": "active",
+  "id": "0xcbb18fd7756b94417bd0b0c7b5b02847cae60e6f"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Revuto",
+  "symbol": "REVU",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://crypto.revuto.com/",
+  "explorer": "https://evmexplorer.velas.com/address/0x78fec264679c07aa1302af240fcb0c76db6e3a1c",
+  "status": "active",
+  "id": "0x78fec264679c07aa1302af240fcb0c76db6e3a1c"
+}

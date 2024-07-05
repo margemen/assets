@@ -1,0 +1,24 @@
+{
+    "symbol":"wanICP",
+    "name":"wanICP@wanchain",
+    "address":"0x5f95A1AB4fa5f367708F12371Ad954D95b55F395",
+    "description":"Wrapped ICP on Wanchain",
+    "website":"https://www.wanchain.org/",
+    "auditReport":{
+      "TechRate":"",
+      "Certik":""
+    },
+    "communities":{
+      "email":"techsupport@wanchain.org",
+      "telegram":"https://t.me/WanchainCHAT",
+      "reddit":"https://www.reddit.com/r/wanchain/",
+      "medium":"https://medium.com/wanchain-foundation",
+      "youtube":"https://www.youtube.com/channel/UCW_i8cncT0d1RyX7YCA_oKQ",
+      "twitter":"https://twitter.com/wanchain_org",
+      "facebook":"https://m.facebook.com/wanchainfoundation/",
+      "github":"https://github.com/wanchain",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/internet-computer/",
+      "coingecko":"https://www.coingecko.com/en/coins/internet-computer"
+    },
+  }
+  

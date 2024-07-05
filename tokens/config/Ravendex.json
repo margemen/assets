@@ -1,0 +1,11 @@
+{
+  "name": "RAVE",
+  "symbol": "Ravendex",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://ravendex.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0xaf0fd569d6da17c4eeb131be5570a4cbc518b0e4",
+  "status": "active",
+  "id": "0xaf0fd569d6da17c4eeb131be5570a4cbc518b0e4"
+}

@@ -1,0 +1,16 @@
+{
+    "symbol": "XRP",
+    "name": "Ripple Network",
+    "description": "Ripple Network",
+    "website": "https://ripple.com",
+    "communities": {
+        "email": "info@ripple.com",
+        "reddit": "https://reddit.com/r/ripple",
+        "medium": "https://www.xrpchat.com/",
+        "twitter": "https://twitter.com/search?q=$xrp",
+        "facebook": "https://www.facebook.com/433523166761374",
+        "github": "https://github.com/ripple",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/xrp/",
+        "coingecko": "https://www.coingecko.com/en/coins/xrp"
+    }
+}

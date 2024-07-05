@@ -1,0 +1,11 @@
+{
+  "name": "BISON COIN",
+  "symbol": "BISON",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://bisoncoin.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0xa1f69a8fe5e68ab39251aeb924c88c09a1439f07",
+  "status": "active",
+  "id": "0xa1f69a8fe5e68ab39251aeb924c88c09a1439f07"
+}

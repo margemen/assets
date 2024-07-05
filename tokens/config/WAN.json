@@ -1,0 +1,18 @@
+{
+    "symbol": "WAN",
+    "name": "Wanchain",
+    "description": "Wanchain",
+    "website": "https://wanchain.org/",
+    "communities": {
+        "email": "info@wanchain.org",
+        "telegram": "https://t.me/WanchainANN",
+        "reddit": "https://reddit.com/r/wanchain",
+        "medium": "https://bitcointalk.org/index.php?topic=2110925.0",
+        "youtube": "https://www.youtube.com/channel/UC5vUiX1eINl0gs6T3mS1CxA",
+        "twitter": "https://twitter.com/wanchain_org",
+        "facebook": "https://www.facebook.com/2051605651729298",
+        "github": "https://github.com/wanchain",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/wanchain",
+        "coingecko": "https://www.coingecko.com/en/coins/wanchain"
+    }
+}

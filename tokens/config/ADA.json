@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Cardano",
+  "symbol": "ADA",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.cardano.org/",
+  "explorer": "https://evmexplorer.velas.com/address/0x3611fbfb06ffbcef9afb210f6ace86742e6c14a4",
+  "status": "active",
+  "id": "0x3611fbfb06ffbcef9afb210f6ace86742e6c14a4"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dracards",
+  "symbol": "FIRE",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://dracards.com/",
+  "explorer": "https://evmexplorer.velas.com/address/0x853bc583c6c67d226019e2c603921be4d1779341",
+  "status": "active",
+  "id": "0x853bc583c6c67d226019e2c603921be4d1779341"
+}

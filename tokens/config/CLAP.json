@@ -1,0 +1,11 @@
+{
+  "name": "Cardashift",
+  "symbol": "CLAP",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://cardashift.com/",
+  "explorer": "https://evmexplorer.velas.com/address/0x253540b0fa37d2fc25e348672e09cbf395832438",
+  "status": "active",
+  "id": "0x253540b0fa37d2fc25e348672e09cbf395832438"
+}

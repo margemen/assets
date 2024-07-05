@@ -1,0 +1,18 @@
+{
+    "symbol": "SRX",
+    "name": "Storx Network",
+    "description": "",
+    "website": "https://storx.tech",
+    "communities": {
+        "email": "info@storx.tech",
+        "telegram": "https://t.me/StorXNetwork",
+        "reddit": "https://www.reddit.com/r/StorXNetwork/",
+        "medium": "https://storxnetwork.medium.com/",
+        "youtube": "https://www.youtube.com/channel/UC5vUiX1eINl0gs6T3mS1CxA",
+        "twitter": "https://twitter.com/StorXNetwork",
+        "facebook": "https://www.facebook.com/StorXNetwork",
+        "github": "https://github.com/StorXNetwork",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/storx-network/",
+        "coingecko": "https://www.coingecko.com/en/coins/storx"
+    }
+}

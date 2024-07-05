@@ -1,0 +1,11 @@
+{
+  "name": "Ray Network",
+  "symbol": "XRAY",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://raynetwork.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0x438ec6bdf9909131b3bf5243429572fb9d0354a7",
+  "status": "active",
+  "id": "0x438ec6bdf9909131b3bf5243429572fb9d0354a7"
+}

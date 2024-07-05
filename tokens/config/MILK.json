@@ -1,0 +1,11 @@
+{
+  "name": "MuesliSwap",
+  "symbol": "MILK",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://ada.muesliswap.com/",
+  "explorer": "https://evmexplorer.velas.com/address/0x8501e51e8d6ef1395be8aa7df388fe7498568a8e",
+  "status": "active",
+  "id": "0x8501e51e8d6ef1395be8aa7df388fe7498568a8e"
+}

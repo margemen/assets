@@ -1,0 +1,11 @@
+{
+  "name": "SingularityNET",
+  "symbol": "AGIX",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://singularitynet.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0x6a117582badc2f5c49f33da453d41cd1dce6c3ba",
+  "status": "active",
+  "id": "0x6a117582badc2f5c49f33da453d41cd1dce6c3ba"
+}

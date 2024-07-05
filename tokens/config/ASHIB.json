@@ -1,0 +1,11 @@
+{
+  "name": "A SHIB",
+  "symbol": "ASHIB",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://ashib.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0xff77dc079a879397398b5da1997fc8cc966edba3",
+  "status": "active",
+  "id": "0xff77dc079a879397398b5da1997fc8cc966edba3"
+}

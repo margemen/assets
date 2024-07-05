@@ -1,0 +1,15 @@
+{
+    "symbol": "STKXDCNFT",
+    "name": "XDCStakingNFTs",
+    "description": "XDC Staking NFTs offers you the possibility to stake XDC and earn rewards from the Prime Numbers XDC Ecosystem.",
+    "website": "https://www.primenumbers.xyz/",
+    "communities": {
+        "email": "admin@primenumbers.xyz",
+        "telegram": "https://t.me/PrimeNumbersFi",
+        "medium": "https://medium.com/@PrimeNumbersFi",
+        "twitter": "https://twitter.com/PrimeNumbersFi",
+        "github": "https://github.com/PrimeNumbersNFT",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/prime-numbers/",
+        "coingecko": "https://www.coingecko.com/en/coins/prime-numbers"
+    }
+}

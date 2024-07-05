@@ -1,0 +1,11 @@
+{
+  "name": "CardStarter",
+  "symbol": "CARDS",
+  "type": "VRC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://cardstarter.io/",
+  "explorer": "https://evmexplorer.velas.com/address/0x2e4a65f658db73f681afc9b538e0bebe2478cafc",
+  "status": "active",
+  "id": "0x2e4a65f658db73f681afc9b538e0bebe2478cafc"
+}
