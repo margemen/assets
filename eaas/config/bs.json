@@ -1,0 +1,41 @@
+{
+    "footer": {
+        "copyRightsText": "BlocksScan.io All Rights Reserved",
+        "donationAddress": "xdc58c43c37a2e74c34352a809c447c223455e21006"
+    },
+    "links": {
+        "knowledgeBase": "https://www.xdc.dev/blocksscan",
+        "aboutUs": "https://blocksscan.io/",
+        "contactUs": "https://blocksscan.io/#support",
+        "termsOfServices": "https://blocksscan.io/#services",
+        "api": "https://docs.blocksscan.io/",
+        "networkStatus": "http://stats.xinfin.network:3000/"
+    },
+    "social": {
+        "twitter": "https://twitter.com/blocksscan",
+        "github": "https://github.com/BlocksScan",
+        "facebook": "https://www.facebook.com/blocksscan",
+        "instagram": "https://www.instagram.com/blocksscan",
+        "telegram": "https://t.me/BlocksScanIO",
+        "reddit": "",
+        "medium": "https://medium.com/@blocksscanio",
+        "youtube": "https://www.youtube.com/@BlocksScan",
+        "coingecko": "",
+        "coinmarketcap": ""
+    },
+    "sponsor": [
+           {
+            "logo": "https://cdn.blocksscan.io/eaas/BS-dark-logo.svg",
+            "title": "BlocksScan Explorer Upgrade",
+            "description": "Streamline Hardhat Smart Contract Verification: A Guide to Automated Verification on BlocksScan",
+            "linkText": "More Info",
+            "link": "https://www.xdc.dev/blocksscan/streamline-hardhat-smart-contract-verification-a-guide-to-automated-verification-on-blocksscan-with-xdc-network-30kc"
+        }
+    ],
+    "ads": [
+        {
+            "url": "https://t.me/BlocksScanIO",
+            "image": "https://cdn.xinfinscan.com/img/Ad-Banner_321x101.jpg"
+        }
+    ]
+}

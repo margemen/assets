@@ -1,0 +1,48 @@
+{
+    "footer": {
+        "copyRightsText": "WYZth PoA All Rights Reserved",
+        "donationAddress": "0xfCAB5A0d411F40D1e0378FB5E5FCd083121a9BcB",
+        "poweredByText": "WYZth PoA L1 Chain",
+        "scanText": "WYZthScan",
+        "legecyFooter":true
+
+    },
+    "links": {
+        "preferences": "https://wyzthscan.org/preferences",
+        "aboutUs": "https://wyzth.org/",
+        "contactUs": "https://t.me/officialwyzth",
+        "careers": "https://wyzth.org/careers",
+        "termsOfServices": "https://wyzthscan.org/terms-of-service",
+        "api": "https://docs.wyzth.org/docs/Overview",
+        "newsletter": "https://news.wyscale.com/",
+        "wyScale": "https://wyscale.com/"
+    },
+    "social": {
+        "telegram": "https://t.me/officialwyzth",
+        "instagram": "https://instagram.com/officialwyzth",
+        "linkedin": "https://www.linkedin.com/company/wyzth",
+        "twitter": "https://twitter.com/wyzthofficial",
+        "github": "",
+        "facebook": "",
+        "reddit": "",
+        "medium": "",
+        "youtube": "",
+        "coingecko": "",
+        "coinmarketcap": "https://coinmarketcap.com/community/profile/WYZth/"
+    },
+    "sponsor": [
+        {
+            "logo": "https://wyscale.com/logo.svg",
+            "title": "WYscale",
+            "description" : "A Web3 Crypto Mutual Fund, start with as low as $50 on",
+            "linkText": "WYscale",
+            "link": "https://wyscale.com/"
+        }
+    ],
+    "ads": [
+        {
+            "url": "https://wyscale.com/",
+            "image": "https://wyzthscan.org/images/header-advertisement.gif"
+        }
+    ]
+}
