@@ -6,7 +6,7 @@ If you would like to add a logo and details for your token to BlocksScan Explore
 ## Image Requirements
 
 - **File Extension:** Only `.png` is accepted. Uppercase `.PNG` files will be considered invalid.
-- **File Name:** The file name should be your token symbol in lowercase. For example, `tokens/usdt.png`.
+- **File Name:** The file name should be your token symbol in lowercase. For example, `tokens/img/usdt.png`.
 - **Size:** The image should be 256px by 256px.
 - **Background:** Preferably transparent.
 - **Optimization:** Use a simple drag-and-drop online service like [TinyPNG](https://tinypng.com/) to optimize the image size.
@@ -14,7 +14,7 @@ If you would like to add a logo and details for your token to BlocksScan Explore
 ## Token Information Requirements
 
 - **File Extension:** Only `.json` is accepted. Uppercase `.JSON` files will be considered invalid.
-- **File Name:** The file name should be your token symbol in lowercase. For example, `tokens/usdt.json`.
+- **File Name:** The file name should be your token symbol in lowercase. For example, `tokens/config/usdt.json`.
 - **Required Fields:** `symbol`, `name`, `website`
 
 ## Example
