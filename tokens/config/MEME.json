@@ -1,0 +1,21 @@
+{
+  "symbol": "MEME",
+  "name": "Memecoin",
+  "description": "",
+  "website": "https://www.memecoin.org/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/memecoin",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/memecoin-2"
+  }
+}

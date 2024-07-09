@@ -1,0 +1,21 @@
+{
+  "symbol": "SOL",
+  "name": "Solana",
+  "description": "Solana is a highly functional open source project that banks on blockchain technology’s permissionless nature to provide decentralized finance (DeFi) solutions. It is a layer 1 network that offers fast speeds and affordable costs. While the idea and initial work on the project began in 2017, Solana was officially launched in March 2020 by the Solana Foundation with headquarters in Geneva, Switzerland.",
+  "website": "https://solana.com/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/solana",
+    "reddit": "https://www.reddit.com/r/solana",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/solana",
+    "facebook": "",
+    "github": "https://github.com/solana-labs/solana",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/solana"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ASTR",
+  "name": "Astar",
+  "description": "Astar Network is the gateway for projects across enterprises, entertainment & gaming in Japan and beyond, driving global adoption and delivering web3 to billions. It leverages a cross-virtual machine powered by Polygon and Polkadot to offer customizable blockchain solutions that accelerate web3 adoption. With zk-powered Ethereum L2 Scaling (zkEVM), EVM, WASM, and a cutting-edge ecosystem, Astar delivers robust, secure, and interoperable web3 technology.\r\n\r\nAstar zkEVM is the new Layer-2 solution to scale a web3 experience on Ethereum with zero knowledge (ZK) technology. Astar Network adds an EVM equivalent environment that is seamlessly compatible with existing smart contracts, developer tools, and wallets on Ethereum. ",
+  "website": "https://astar.network/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/PlasmOfficial",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/AstarNetwork",
+    "facebook": "",
+    "github": "https://github.com/AstarNetwork/Astar",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/astar"
+  }
+}

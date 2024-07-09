@@ -1,0 +1,21 @@
+{
+  "symbol": "AAVE",
+  "name": "Aave",
+  "description": "Aave is a decentralized money market protocol where users can lend and borrow cryptocurrency across 20 different assets as collateral. The protocol has a native token called AAVE, which is also a governance token that lets the community decide the direction of the protocol in a collective manner. Lenders can earn interest by providing liquidity to the market, while borrowers can borrow by collateralizing their cryptoassets to take out loans from the liquidity pools.\r\n\r\n",
+  "website": "https://app.aave.com/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/Aavesome",
+    "reddit": "https://www.reddit.com/r/Aave_Official",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/aave",
+    "facebook": "https://www.facebook.com/AaveCom",
+    "github": "https://github.com/aave/aave-protocol",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/aave"
+  }
+}

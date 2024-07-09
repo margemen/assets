@@ -1,0 +1,21 @@
+{
+  "symbol": "COMP",
+  "name": "Compound",
+  "description": "The Compound Governance Token is a governance token on the Compound Finance lending protocol, COMP allows the owner to delegate voting rights to the address of their choice; the owner’s wallet, another user, an application, or a DeFi expert. Anybody can participate in Compound governance by receiving delegation, without needing to own COMP.\r\n\r\nAnybody with 1% of COMP delegated to their address can propose a governance action; these are simple or complex sets of actions, such as adding support for a new asset, changing an asset’s collateral factor, changing a market’s interest rate model, or changing any other parameter or variable of the protocol that the current administrator can modify.",
+  "website": "https://compound.finance/governance/comp",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/compoundfinance",
+    "facebook": "",
+    "github": "https://github.com/compound-finance/compound-protocol",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/compound-governance-token"
+  }
+}

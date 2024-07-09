@@ -1,13 +1,21 @@
 {
-  "name": "Avalanche",
-  "website": "https://www.avax.network/",
-  "description": "-",
-  "explorer": "https://evmexplorer.velas.com/address/0x525bd1f949ffa2a0c5820f3b6fe61bb897466ff7",
-  "research": "",
-  "type": "VRC20",
   "symbol": "AVAX",
-  "decimals": 18,
-  "status": "active",
-  "id": "0x525bd1f949ffa2a0c5820f3b6fe61bb897466ff7",
-  "links": []
+  "name": "Avalanche",
+  "description": "Avalanche is a high throughput smart contract blockchain platform. Validators secure the network through a proof-of-stake consensus protocol. It is said to be fast, low cost, and environmental friendly.",
+  "website": "https://www.avax.network",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/avalancheavax",
+    "reddit": "https://www.reddit.com/r/Avax",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/avax",
+    "facebook": "",
+    "github": "https://github.com/ava-labs/avalanchego",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/avalanche-2"
+  }
 }

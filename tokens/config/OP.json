@@ -1,0 +1,21 @@
+{
+  "symbol": "OP",
+  "name": "Optimism",
+  "description": "",
+  "website": "https://app.optimism.io/governance",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/Optimism",
+    "facebook": "",
+    "github": "https://github.com/ethereum-optimism/",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/optimism"
+  }
+}

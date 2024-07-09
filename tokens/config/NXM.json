@@ -1,0 +1,21 @@
+{
+  "symbol": "NXM",
+  "name": "Nexus Mutual",
+  "description": "Nexus Mutual is a decentralized insurance protocol built on Ethereum that currently offers cover for smart contracts on the Ethereum blockchain, currently covering all the main defi protocols. Nexus Mutual offers coverage against smart contract failures, which protects against potential bugs in smart contract code. \r\n\r\nThe coverage intends to provide protection against financial losses that may be incurred due to hacks or exploits in the smart contract code. Note that smart contract cover only protects against “unintended uses” of smart contracts, so security events such as the loss of private keys or centralized exchange hacks are not covered. In December 2020, it released custody cover covering centralised custodians and lenders such as Celsius, Blockfi, and Nexo. ",
+  "website": "https://nexusmutual.io/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/NexusMutual",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/nxm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ZRX",
+  "name": "0x Protocol",
+  "description": "",
+  "website": "https://www.0xprotocol.org/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/official_0x",
+    "reddit": "https://www.reddit.com/r/0xProject/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/zeroexprotocol",
+    "facebook": "",
+    "github": "https://github.com/0xProject/0x-monorepo",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/0x"
+  }
+}

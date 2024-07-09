@@ -1,0 +1,21 @@
+{
+  "symbol": "ROSE",
+  "name": "Oasis Network",
+  "description": "",
+  "website": "https://oasisprotocol.org/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/oasisprotocolcommunity",
+    "reddit": "https://www.reddit.com/r/oasislabs/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/oasisprotocol",
+    "facebook": "",
+    "github": "https://github.com/oasisprotocol",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/oasis-network"
+  }
+}

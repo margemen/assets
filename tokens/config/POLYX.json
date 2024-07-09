@@ -1,0 +1,21 @@
+{
+  "symbol": "POLYX",
+  "name": "Polymesh",
+  "description": "Polymesh is an institutional-grade permissioned blockchain built specifically for regulated assets. It streamlines antiquated processes and opens the door to new financial instruments by solving the challenges around governance, identity, compliance, confidentiality, and settlement. Polymesh is built on the Substrate framework and uses a Nominated Proof of Stake Consensus algorithm.",
+  "website": "https://polymesh.network/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com/r/PolymathNetwork/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/PolymeshNetwork",
+    "facebook": "",
+    "github": "https://github.com/PolymathNetwork/Polymesh",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/polymesh"
+  }
+}

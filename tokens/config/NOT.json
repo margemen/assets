@@ -1,0 +1,21 @@
+{
+  "symbol": "NOT",
+  "name": "Notcoin",
+  "description": "Notcoin ($NOT) is as a community-driven token aimed at onboarding users into the Web3 ecosystem through a tap-to-earn game.",
+  "website": "https://t.me/notcoin_bot",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/notcoin",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/thenotcoin",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/notcoin"
+  }
+}

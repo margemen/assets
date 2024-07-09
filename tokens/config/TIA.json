@@ -1,0 +1,21 @@
+{
+  "symbol": "TIA",
+  "name": "Celestia",
+  "description": "Celestia is a data availability network that allows developers to easily create a new blockchain.",
+  "website": "https://celestia.org/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/CelestiaCommunity",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/CelestiaOrg",
+    "facebook": "",
+    "github": "https://github.com/celestiaorg/celestia-node",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/celestia"
+  }
+}

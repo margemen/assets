@@ -1,0 +1,21 @@
+{
+  "symbol": "DYDX",
+  "name": "dYdX",
+  "description": "",
+  "website": "https://dydx.trade/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/dydxfoundation",
+    "facebook": "",
+    "github": "https://github.com/dydxprotocol",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/dydx-chain"
+  }
+}

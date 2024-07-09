@@ -1,0 +1,21 @@
+{
+  "symbol": "RUNE",
+  "name": "THORChain",
+  "description": "THORChain is building a chain-agnostic bridging protocol that will allow trustless and secure value-transfer connections with most other chains (such as Bitcoin, Ethereum, Monero and all of Binance Chain). Users will be able to instantly swap any asset at fair market prices and deep liquidity. Token holders will be able to stake any asset and earn on liquidity fees. Projects will be able to access manipulation resistant price feeds and accept payments in any currencies, no matter the type or liquidity.",
+  "website": "https://thorchain.org/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/thorchain_org",
+    "reddit": "https://www.reddit.com/r/thorchain",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/thorchain",
+    "facebook": "https://www.facebook.com/thorchain.org",
+    "github": "https://github.com/thorchain/Resources",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/thorchain"
+  }
+}

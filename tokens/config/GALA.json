@@ -1,0 +1,21 @@
+{
+  "symbol": "GALA",
+  "name": "GALA",
+  "description": "GALA is designed to power the Gala Games ecosystem to support gaming re-imagined to benefit creators and players, alike.",
+  "website": "https://gala.com/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/PoweredByGala",
+    "reddit": "https://www.reddit.com/r/GoGalaGames/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/GoGalaGames",
+    "facebook": "https://www.facebook.com/GoGalaGames",
+    "github": "https://github.com/GalaChain/sdk",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/gala"
+  }
+}

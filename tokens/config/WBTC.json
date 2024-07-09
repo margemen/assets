@@ -1,13 +1,21 @@
 {
-  "name": "Wrapped Bitcoin",
-  "website": "https://wbtc.network/",
-  "description": "-",
-  "explorer": "https://evmexplorer.velas.com/address/0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
-  "research": "",
-  "type": "VRC20",
   "symbol": "WBTC",
-  "decimals": 8,
-  "status": "active",
-  "id": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
-  "links": []
+  "name": "Wrapped Bitcoin",
+  "description": "",
+  "website": "https://www.wbtc.network/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/WrappedBTC",
+    "facebook": "",
+    "github": "https://github.com/WrappedBTC/bitcoin-token-smart-contracts",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin"
+  }
 }

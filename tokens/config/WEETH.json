@@ -1,0 +1,21 @@
+{
+  "symbol": "WEETH",
+  "name": "Wrapped eETH",
+  "description": "Ether.fi's eETH is a decentralized, non-custodial liquid staking token that enables Ethereum holders to earn staking rewards while maintaining full liquidity and control over their assets. eETH along with its wrapped non-rebasing version, weETH, integrates seamlessly with the Ethereum ecosystem, offering users a flexible and secure way to contribute to network validation and participate in the DeFi space. ",
+  "website": "https://www.ether.fi/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/+C3fpSjmPqzA5NTVh",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/ether_fi",
+    "facebook": "",
+    "github": "https://github.com/etherfi-protocol",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/wrapped-eeth"
+  }
+}

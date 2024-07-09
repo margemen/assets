@@ -1,0 +1,21 @@
+{
+  "symbol": "IOTX",
+  "name": "IoTeX",
+  "description": "IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT). IoTeX’s global team is comprised of Ph.Ds in Cryptography, Distributed Systems, and Machine Learning, top tier engineers, and experienced ecosystem builders. IoTeX is developing several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques. IoTeX is bringing autonomous device coordination to the masses by “connecting the physical world, block by block.”\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/iotex-iotx/\">CoinBureau</a> for the complete review of IoTeX.",
+  "website": "https://iotex.io",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/IoTeXGroup",
+    "reddit": "https://www.reddit.com/r/IoTeX",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/iotex_io",
+    "facebook": "https://www.facebook.com/iotex.io",
+    "github": "https://github.com/iotexproject/iotex-core",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/iotex"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "RON",
+  "name": "Ronin",
+  "description": "RON is the ecosystem token for the Ronin chain. It will eventually be used to pay gas fees and secure the network for both Axie Infinity and future games/products hosted on the chain.",
+  "website": "https://roninchain.com",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/Ronin_Network",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/ronin"
+  }
+}

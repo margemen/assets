@@ -1,0 +1,21 @@
+{
+  "symbol": "AR",
+  "name": "Arweave",
+  "description": "Welcome to the future of data storage\r\nA new data storage blockchain protocol based on a novel proof of access consensus mechanism that creates truly permanent data storage for the first time. Now data is finally permanent, low-cost, and truly censorship free.\r\n\r\nArweave has solved the millennia old problem of decentralised data availability.\r\nPay Once, Store Forever.\r\nArweave makes permanent data storage a reality for the very first time. As the $3 trillion data-storage industry is growing, the need for cheap, distributed, permanent data-storage on the blockchain has become an urgent necessity.",
+  "website": "https://arweave.org/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/arweaveeco",
+    "facebook": "https://www.facebook.com/ArweaveTeam",
+    "github": "https://github.com/ArweaveTeam/arweave",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/arweave"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "PEPECOIN",
+  "name": "PepeCoin",
+  "description": "",
+  "website": "https://www.pepecoin.io",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/pepecoins",
+    "reddit": "https://www.reddit.com/r/pepecoin",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/pepecoins",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/pepecoin-2"
+  }
+}

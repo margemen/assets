@@ -1,0 +1,21 @@
+{
+  "symbol": "XCH",
+  "name": "Chia",
+  "description": "Founded by Bram Cohen, the inventor of the BitTorrent network, Chia Network is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.\r\n\r\nChialisp is Chia’s new smart transaction programming language that is powerful, easy to audit, and secure. The blockchain is powered by the first new Nakamoto style consensus algorithm since Bitcoin launched in 2008. Proofs of Space and Time replace energy intensive “proofs of work” by utilizing unused disk space.\r\n\r\nChia Network supports the development and deployment of the Chia blockchain globally. Chia Network supports chia developers and supports the enterprise use of chia with software support and chia lending.",
+  "website": "https://www.chia.net/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com/r/chia/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/chia_project",
+    "facebook": "",
+    "github": "https://github.com/Chia-Network",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/chia"
+  }
+}

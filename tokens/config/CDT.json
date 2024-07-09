@@ -1,0 +1,21 @@
+{
+  "symbol": "CDT",
+  "name": "Blox",
+  "description": "Blox is an open-source, fully non-custodial staking platform for Ethereum 2.0. The platform serves as an easy and accessible way to stake Ether and earn rewards on Eth2, while ensuring participants retain complete control over their private keys. Our goal at Blox is to simplify staking while ensuring Ethereum stays fair and decentralized. ",
+  "website": "https://www.bloxstaking.com/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com/r/Blox_io/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/Blox_Staking",
+    "facebook": "",
+    "github": "https://github.com/bloxapp",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/blox"
+  }
+}

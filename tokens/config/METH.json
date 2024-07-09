@@ -1,0 +1,21 @@
+{
+  "symbol": "METH",
+  "name": "Mantle Staked Ether",
+  "description": "Mantle Liquid Staking Protocol (LSP) is a permissionless, non-custodial ETH liquid staking protocol deployed on Ethereum L1 and governed by Mantle. Mantle Staked Ether (mETH) serves as the value-accumulating receipt token.",
+  "website": "https://www.mantle.xyz/meth",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/mantlenetwork",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/0xMantle",
+    "facebook": "",
+    "github": "https://github.com/mantle-lsp",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/mantle-staked-ether"
+  }
+}

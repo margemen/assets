@@ -1,0 +1,21 @@
+{
+  "symbol": "STX",
+  "name": "Stacks",
+  "description": "Stacks brings Apps and Smart Contracts to Bitcoin. Apps built on Stacks inherit all of Bitcoin’s powers. They run their logic on the blockchain with smart contracts, are controlled by code instead of companies, and are accessible to anyone. This enables decentralized apps to do things that regular apps can’t.",
+  "website": "http://stacks.co/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/StacksChat",
+    "reddit": "https://www.reddit.com/r/stacks",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/Stacks",
+    "facebook": "",
+    "github": "https://github.com/stacks-network",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/blockstack"
+  }
+}

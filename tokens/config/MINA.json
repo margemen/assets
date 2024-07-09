@@ -1,0 +1,21 @@
+{
+  "symbol": "MINA",
+  "name": "Mina Protocol",
+  "description": "The world's lightest blockchain, powered by participants. Mina is building a privacy-preserving gateway between the real world and crypto — and the infrastructure for the secure, democratic future we all deserve.",
+  "website": "https://minaprotocol.com/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/minaprotocol",
+    "reddit": "https://www.reddit.com/r/MinaProtocol/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/minaprotocol",
+    "facebook": "",
+    "github": "https://github.com/MinaProtocol/mina",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/mina-protocol"
+  }
+}

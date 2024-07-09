@@ -1,0 +1,21 @@
+{
+  "symbol": "CBETH",
+  "name": "Coinbase Wrapped Staked ETH",
+  "description": "",
+  "website": "https://www.coinbase.com/cbeth",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/CoinbaseAssets",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/coinbase-wrapped-staked-eth"
+  }
+}

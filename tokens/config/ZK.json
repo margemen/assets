@@ -1,0 +1,21 @@
+{
+  "symbol": "ZK",
+  "name": "ZKsync",
+  "description": "",
+  "website": "https://zksync.io/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/zksync",
+    "facebook": "",
+    "github": "https://github.com/matter-labs/zksync-era",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/zksync"
+  }
+}

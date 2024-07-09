@@ -1,0 +1,21 @@
+{
+  "symbol": "OM",
+  "name": "MANTRA",
+  "description": "MANTRA is a Security first RWA Layer 1 Blockchain, capable of adherence and enforcement of real world regulatory requirements. Built for Institutions and Developers, MANTRA offers a Permissionless Blockchain for Permissioned applications.\r\n\r\nKey Features:\r\n• Built using Cosmos SDK, IBC compatible, with CosmWasm supported\r\n• Secured via a sovereign PoS validator set\r\n• Scalable up to 10k TPS\r\n• Built-in Modules, SDKs and APIs to create, trade and manage regulatory compliant RWAs\r\n• Improved User Experience to onboard non-native users and institutions to Web3",
+  "website": "https://www.mantrachain.io/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/MANTRA_Chain",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/MANTRA_Chain",
+    "facebook": "",
+    "github": "https://github.com/Mantradao",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/mantra-dao"
+  }
+}

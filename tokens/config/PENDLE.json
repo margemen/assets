@@ -1,0 +1,21 @@
+{
+  "symbol": "PENDLE",
+  "name": "Pendle",
+  "description": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization. ",
+  "website": "https://pendle.finance/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/pendlefinance",
+    "reddit": "https://www.reddit.com",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/pendle_fi",
+    "facebook": "",
+    "github": "https://github.com/pendle-finance/pendle-core-v2-public",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/pendle"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "CWBTC",
+  "name": "cWBTC",
+  "description": "",
+  "website": "https://compound.finance/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com/r/Compound/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/compoundfinance",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/compound-wrapped-btc"
+  }
+}

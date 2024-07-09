@@ -1,0 +1,21 @@
+{
+  "symbol": "XTZ",
+  "name": "Tezos",
+  "description": "What Is Tezos (XTZ)?\r\n\r\n\r\nTezos is a high-performing blockchain and open-source platform for assets and applications, with a strong focus on code security, on-chain governance, and decentralization. Tezos 2.0, the upcoming step in the evolution of Tezos, aims to improve scalability (via layer 2s), composability, and to implement support to mainstream programming languages (like Javascript, Typescript, Python, and many others).\r\n\r\n\r\nInitially built with formal verification in mind, the Tezos protocol enables builders to avoid bugs when developing smart contracts, making it particularly suited to applications that require a high degree of security and certainty.\r\n\r\n\r\nTezos’ LPoS (Liquid Proof-of-Stake) consensus mechanism enables any stakeholder to take part, directly or by delegation, in the consensus process, and to be rewarded for securing the network. Rather uniquely, Tezos’ on-chain governance system also enables stakeholders to create and vote on protocol upgrade proposals. This pioneering system allows the protocol to self-amend and upgrade itself without leading to a split (or fork) in the blockchain, empowering the community without slowing down innovation.\r\n\r\n\r\nFirst proposed in 2014 and launched in 2018, the Tezos Mainnet has a proven track record of running uninterrupted ever since, having earned a strong reputation for technical excellence and a supportive community. \r\n\r\n\r\nWho Are the Founders of Tezos?\r\nTezos was conceived by Arthur and Kathleen Breitman in a 2014 white paper under the pseudonym L.M. Goodman in a nod to Satoshi Nakamoto, referencing a journalist who had misidentified the creator of Bitcoin.\r\n\r\n\r\nIn a previous paper, the Breitmans had argued that Bitcoin's biggest shortcomings were the lack of a governance process that invited contributions from its community of users, cost and centralization issues raised by its proof-of-work system, the limited expressiveness of its programming language which didn’t allow for smart contracts, and security ",
+  "website": "https://www.tezos.com/",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "",
+    "reddit": "https://www.reddit.com/r/tezos",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/tezos",
+    "facebook": "",
+    "github": "https://github.com/tezos/tezos-mirror",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/tezos"
+  }
+}

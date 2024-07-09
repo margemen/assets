@@ -1,0 +1,21 @@
+{
+  "symbol": "INJ",
+  "name": "Injective",
+  "description": "",
+  "website": "https://injective.com",
+  "auditReport": {},
+  "communities": {
+    "email": "",
+    "telegram": "https://t.me/joininjective",
+    "reddit": "https://www.reddit.com/r/injective/",
+    "medium": "",
+    "youtube": "",
+    "twitter": "https://twitter.com/injective",
+    "facebook": "",
+    "github": "https://github.com/InjectiveLabs/injective-helix-demo",
+    "linkedin": "",
+    "discord": "",
+    "coinmarketcap": "",
+    "coingecko": "https://www.coingecko.com/en/coins/injective-protocol"
+  }
+}
