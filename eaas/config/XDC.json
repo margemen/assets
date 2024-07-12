@@ -33,7 +33,7 @@
             "link": "https://dopu.ai/"
         },
         {
-            "logo": "https://storx.tech/assets/images/brand-assets/storx_logo-dark/storx_logo-dark.svg",
+            "logo": "https://storx.tech/assets/images/storx-logo-light.png",
             "title": "StorX Network",
             "description": " Distributed Cloud Storage Powered by XinFin Blockchain Network",
             "linkText": "Explore StorX Network",
@@ -45,13 +45,6 @@
             "description": " Integration of Solidity 0.8.23 on the XDC Mainnet has been successfully completed!",
             "linkText": "Get Upgrade Info Here",
             "link": "https://www.xdc.dev/anilchinchawale/stay-ahead-xdc-network-prepares-for-evm-0823-integration-on-xdc-mainnet-upgrade-details-inside-5nj"
-        },
-        {
-            "logo": "https://daofin.xdc.network/logo.svg",
-            "title": "DAOFIN",
-            "description": " A New Era of XDC Global Governance",
-            "linkText": "Join XDC.Dev Community",
-            "link": "https://xdc.dev"
         },
         {
             "logo": "https://www.sbixdc.network/img/sbi_xdc_network_apac_logo/SBI%20XDC%20Network%20APAC%20Logo_white.svg",
