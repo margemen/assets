@@ -46,4 +46,27 @@ Below is an example of a JSON file containing the necessary token information:
 }
 ```
 
-By following these guidelines, you can ensure that your token's logo and details are correctly displayed on BlocksScan Explorer.
+## Adding a New Account Tag
+
+To add a new account tag, follow these steps:
+
+1. **Locate the Configuration File:** The configuration file is located at \`eaas/config/XDC/AccountName.json\`.
+2. **Open the File:** Use a text editor to open \`AccountName.json\`.
+3. **Add the Account Tag:** Add a new entry to the JSON file with the appropriate details.
+
+### Example
+
+Below is an example of how to add a new account tag to the \`AccountName.json\` file:
+
+```json
+{
+  "0xYourAccountAddressHere": "YourAccountTagName"
+}
+```
+
+Make sure to include the following fields for each new account tag:
+
+- **0xYourAccountAddressHere:** The blockchain address of the account.
+- **YourAccountTagName:** The name you want to associate with this account.
+
+By following these guidelines, you can ensure that your token's logo, details, and account tags are correctly displayed on BlocksScan Explorer.
