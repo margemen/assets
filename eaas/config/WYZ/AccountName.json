@@ -1,6 +1,35 @@
 [
     {
-        "0xcab044b301d94875ac1502b73e54d63b0162c70f": "XT",
-        "0xe0a616c3659be29567e08819772e6905307adf21": "XT"
+        "0xcab044b301d94875ac1502b73e54d63b0162c70f": "XT.com"
+    },    
+    {
+        "0xe0a616c3659be29567e08819772e6905307adf21": "XT.com"
+    },
+    {
+        "0x5Cbc130ef128e6AE505836d3DEC5c24a6810E823": "Operations"
+    },
+    {
+        "0x8BDaC21E983dF0EE2fFB31911Dd1A32F82d37786": "Harvesting"
+    },
+    {
+        "0xc26DedaEa227eEd641607B66586294aEb673f4C8": "Farming"
+    },
+    {
+        "0x65fF214A2A4f4e3dD164e3b169A72AFA5FBf655e": "Community"
+    },
+    {
+        "0x8888a994323bE6c3fe1bF4b715588149296d30C7": "WYZth PoA Validator 4"
+    },
+    {
+        "0xAAdeF877d9F5441e643B48dBB54B974d36D887C6": "WYZth PoA Validator 1"
+    },
+    {
+        "0x9daCbc5D2C60c64fcb31f75bb6A4c31f4fA270Ac": "WYZth PoA Validator 2"
+    },
+    {
+        "0x84461d6d6501acf0Da8bC5f765E0615CbCeeC5eE": "WYZth PoA Validator 3"
+    },
+    {
+        "0xE2a8e47Cb0A57838C3EB5DE2326cac9fe19b2117": "WYZth Foundation"
     }
 ]
