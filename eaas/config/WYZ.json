@@ -46,7 +46,7 @@
         }
     ],
     "explorer":{
-        "Mainnet" : "https://wyzthscan.io/",
-        "Testnet" : "https://testnet.wyzthscan.io/"
+        "WYZth Mainnet" : "https://wyzthscan.io/",
+        "WYZth Testnet" : "https://testnet.wyzthscan.io/"
     }
 }
