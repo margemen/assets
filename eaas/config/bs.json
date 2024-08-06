@@ -37,5 +37,15 @@
             "url": "https://t.me/BlocksScanIO",
             "image": "https://cdn.xinfinscan.com/img/Ad-Banner_321x101.jpg"
         }
-    ]
+    ],
+        "explorer":{
+        "XDC Mainnet" : "https://xdcscan.io/",
+        "XDC2.0 Testnet" : "https://apothem.xdcscan.io/",
+        "XDC2.0 DevNet" : "https://devnet.xdcscan.io/",
+        "Velas Mainnet" : "https://velasblocks.com/",
+        "Wanchain Mainnet" : "https://wanexplorer.io/",
+        "Rei Mainnet" : "https://rei.blocksscan.io/",
+        "EVMOS Mainnet" : "https://apothem.xdcscan.io/"
+
+    }
 }
