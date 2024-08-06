@@ -44,5 +44,9 @@
             "url": "https://wyscale.com/",
             "image": "https://wyzthscan.org/images/header-advertisement.gif"
         }
-    ]
+    ],
+    "explorer":{
+        "Mainnet" : "https://wyzthscan.io/",
+        "Testnet" : "https://testnet.wyzthscan.io/"
+    }
 }
