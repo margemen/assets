@@ -120,9 +120,15 @@
         }
     ],
             "explorer":{
-        "XDC Mainnet" : "https://xdcscan.io/",
-        "XDC2.0 Testnet" : "https://apothem.xdcscan.io/",
-        "XDC2.0 DevNet" : "https://devnet.xdcscan.io/"
+                "mainnet":{
+                    "XDC Mainnet" : "https://xdcscan.io/"
+                },
+                "testnet":{
+                    "XDC2.0 Testnet" : "https://apothem.xdcscan.io/"
+                },
+                "devnet":{
+                    "XDC2.0 DevNet" : "https://devnet.xdcscan.io/"
+                }
 
 
     }
