@@ -30,9 +30,21 @@
         "0x84461d6d6501acf0Da8bC5f765E0615CbCeeC5eE": "WYZth PoA Validator 3"
     },
     {
-        "0xE2a8e47Cb0A57838C3EB5DE2326cac9fe19b2117": "WYZth Foundation"
+        "0xd9ebAb6A82F3Cf29215b6eF7E2B7c6c51c8542E6": "WYZth Treasury"
     },
     {
         "0x000000000000000000000000000000000000dead": "Burned Assets"
-    }
+    },
+    {
+        "0x9BAeEe04368b617f2BcA7695961d3Ed2523E0084": "WYZth Community"
+    },
+    {
+        "0xAD24f3CAC16CED753179D7376AdB8f58785bb62f": "WYZth Core-Contributors"
+    },
+    {
+        "0x60ED3baAE5c0071D0FE357B245Df87906D13c84A": "WYZth Foundation"
+    },
+    {
+        "0xBF473B74fcBd18A414bfb026A2141512235F3E49": "WYZth Investors"
+    },
 ]
