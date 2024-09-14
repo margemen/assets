@@ -118,5 +118,18 @@
             "url": "https://storx.tech/",
             "image": "https://cdn.xinfinscan.com/img/StorX.png"
         }
-    ]
+    ],
+            "explorer":{
+                "mainnet":{
+                    "XDC Mainnet" : "https://xdcscan.io/"
+                },
+                "testnet":{
+                    "XDC2.0 Testnet" : "https://apothem.xdcscan.io/"
+                },
+                "devnet":{
+                    "XDC2.0 DevNet" : "https://devnet.xdcscan.io/"
+                }
+
+
+    }
 }

@@ -24,7 +24,7 @@
         "coinmarketcap": ""
     },
     "sponsor": [
-           {
+        {
             "logo": "https://cdn.blocksscan.io/eaas/BS-dark-logo.svg",
             "title": "BlocksScan Explorer Upgrade",
             "description": "Streamline Hardhat Smart Contract Verification: A Guide to Automated Verification on BlocksScan",
@@ -37,5 +37,20 @@
             "url": "https://t.me/BlocksScanIO",
             "image": "https://cdn.xinfinscan.com/img/Ad-Banner_321x101.jpg"
         }
-    ]
+    ],
+    "explorer": {
+        "mainnet": {
+            "XDC Mainnet": "https://xdcscan.io/",
+            "Velas Mainnet": "https://velasblocks.com/",
+            "Wanchain Mainnet": "https://wanexplorer.io/",
+            "Rei Mainnet": "https://rei.blocksscan.io/",
+            "EVMOS Mainnet": "https://apothem.xdcscan.io/",
+        },
+        "testnet": {
+            "XDC2.0 Testnet": "https://apothem.xdcscan.io/",
+        },
+        "devnet": {
+            "XDC2.0 DevNet": "https://devnet.xdcscan.io/",
+        }
+    }
 }
