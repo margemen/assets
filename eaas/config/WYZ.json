@@ -40,10 +40,37 @@
         }
     ],
     "ads": [
-        {
-            "url": "https://wyscale.com/",
-            "image": "https://wyzthscan.org/images/header-advertisement.gif"
-        }
+        
+            {
+                "url": "https://wyzth.org/",
+                "image": "https://cdn.blocksscan.io/img/WYZ/1.png"
+            },
+            {
+                "url": "https://wyzth.org/",
+                "image": "https://cdn.blocksscan.io/img/WYZ/2.png"
+            },
+            {
+                "url": "https://wyzth.org/",
+                "image": "https://cdn.blocksscan.io/img/WYZ/3.png"
+            },
+            {
+                "url": "https://wyzth.org/",
+                "image": "https://cdn.blocksscan.io/img/WYZ/4.png"
+            },
+            {
+                "url": "https://wyzth.org/",
+                "image": "https://cdn.blocksscan.io/img/WYZ/5.png"
+            },
+            {
+                "url": "https://wyzth.org/",
+                "image": "https://cdn.blocksscan.io/img/WYZ/6.png"
+            },
+            {
+                "url": "https://wyzth.org/",
+                "image": "https://cdn.blocksscan.io/img/WYZ/7.png"
+            }
+        
+        
     ],
     "explorer":{
         "mainnet":{
