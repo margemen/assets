@@ -6,6 +6,7 @@
     "links": {
         "knowledgeBase": "https://www.xdc.dev/blocksscan",
         "aboutUs": "https://blocksscan.io/",
+        "analytics": "https://analytics.xdc.network/",
         "contactUs": "https://blocksscan.io/#support",
         "termsOfServices": "https://blocksscan.io/#services",
         "api": "https://docs.blocksscan.io/",
