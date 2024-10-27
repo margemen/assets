@@ -153,6 +153,18 @@
         "0x9D8c7C8F2855816880D165603832e6fa6F0e4277": "Pre-Mined WYZth Burn 3.0"
     },
     {
-        "0x1494C968a5E3430C205c8a08840F81D5cA70D9d8": "Pre-Mined WYZth Stakeing 3.0"
+        "0x1494C968a5E3430C205c8a08840F81D5cA70D9d8": "Pre-Mined WYZth Staking 3.0"
+    },
+    {
+        "0x03DC1351A5899869F342d3408d0ffF5038489301": "Vindax"
+    },
+    {
+        "0x0211eb035eca1afaa6f7e33893d5ad02032a7f96": "BankCex"
+    },
+    {
+        "0x86790abbaccd1b21f5ecfdaa67ec6282afbf3e83": "Coinstore"
+    },
+    {
+        "0xA5Ca25F8ff906aFBCc1cB1F105CC8A228611663C": "Cross-chain WYZ/WYS Buy/Sell"
     }
 ]
