@@ -1,0 +1,33 @@
+[
+  {
+    "address": "",
+    "name": "XDC",
+    "type": "NATIVE",
+    "symbol": "XDC",
+    "decimals": 18,
+    "maxLimit": 50
+  },
+  {
+    "address":"0xdf29cb40cb92a1b8e8337f542e3846e185deff96",
+  "name":"FATHOM",
+  "type":"ERC20",
+  "symbol":"FXD",
+  "decimals":"18",
+  "maxLimit":"5"
+},
+  {
+    "address": "0x5310f5934172D55E9E7C55f7E9070c458609F106",
+    "name": "FAUCETTEST",
+    "type": "ERC20",
+    "symbol": "FAUCET",
+    "decimals": 18,
+    "maxLimit": 100
+  },
+  {
+    "address": "0x13b51C04dbBE2a1D6bDF82dE746E9cc9F1E316ed",
+    "name": "MYNFT",
+    "type": "ERC721",
+    "symbol": "XDCNFT",
+    "maxLimit": 1
+  }
+]
