@@ -2,7 +2,7 @@
   "id": "0xe084FFE165fBfbD376f5b3046B56FF4F00fDf73f",
   "symbol": "wcph",
   "name": "CypheriumCommunityDrivenWrappedCPH",
-  "description": "cypheriumネットワークのCPHのラップされたCPH",
+  "description": "Wrapped CPH on XDC network",
   "website": "https://funoncypherium.org/bridge/",
   "auditReport": {
     "SlowMist": ""
