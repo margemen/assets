@@ -1,0 +1,22 @@
+{
+  "id": "0xe084FFE165fBfbD376f5b3046B56FF4F00fDf73f",
+  "symbol": "wcph",
+  "name": "CypheriumCommunityDrivenWrappedCPH",
+  "description": "Wrapped CPH on XDC network",
+  "website": "https://funoncypherium.org/bridge/",
+  "auditReport": {
+    "SlowMist": ""
+  },
+  "communities": {
+    "email": "make-cph-great-again-mcga@funoncypherium.org",
+    "telegram": "https://t.me/CypheriumCommunityBridge",
+    "reddit": "",
+    "medium": "https://medium.com/@make-cph-great-again-mcga",
+    "youtube": "https://www.youtube.com/@Cypher-e5u",
+    "twitter": "https://x.com/n40245",
+    "facebook": "",
+    "github": "https://github.com/CypherTroopers/CommunityBridge",
+    "coinmarketcap": "",
+    "coingecko": ""
+  }
+}
