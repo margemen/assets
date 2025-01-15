@@ -1,0 +1,22 @@
+{
+  "id": "0x41eCA9648F8E3a0f4F504e904b8cB312DA51827e",
+  "symbol": "TRADEX",
+  "name": "TRADEX",
+  "description": "Trade Enablers's XRC20 token",
+  "website": "https://www.tradeenabler.com/",
+  "auditReport": {
+    "SlowMist": ""
+  },
+  "communities": {
+    "email": "tradex@tradeenabler.com",
+    "telegram": "t.me/Winstant",
+    "reddit": "",
+    "medium": "",
+    "youtube": "https://www.youtube.com/@WinstantPay",
+    "twitter": "https://x.com/WinstantTech",
+    "facebook": "https://www.facebook.com/WinstantPay.Official",
+    "github": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  }
+}
