@@ -1,0 +1,752 @@
+[
+    {
+      "projectId": 1,
+      "name": "Razor Network",
+      "track": "Oracle",
+      "icon": "https://cdn.openscan.ai/dapp/razor-icon.svg",
+      "description":
+        "Razor Network is a decentralized oracle network, which connects smart contracts with real-world off-chain data in a fast, robust and secure way.",
+      "longDescription":
+        "Razor Network is a decentralized oracle network, which connects smart contracts with real-world off-chain data in a fast, robust and secure way.The core of Razor Network is a set of smart contracts that can run on any Ethereum compatible blockchain. Razor network is blockchain agnostic and will be integrated with multiple blockchains.",
+      "socialLinks": {
+        "x": "razor_network",
+        "linkedin": "",
+        "telegram": "razornetwork",
+        "github": "razor-network"
+      },
+      "siteLink": "https://razor-network",
+      "tags": ["Oracle", "off-chain"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 2,
+      "name": "Swiftcourt",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/swiftcourt-icon.svg",
+      "description":
+        "Swiftcourt deploys smart contracts on the XDC network to govern escrow processes and mint NFTs and utility tokens to facilitate real-time transactions.",
+      "longDescription":
+        "Swiftcourt deploys smart contracts on the XDC network to govern escrow processes and mint NFTs and utility tokens to facilitate real-time transactions.Eliminating delays caused by traditional banking rails, Swiftcourt enables transactions in both fiat currency and crypto through the use of blockchain, ensuring quicker settlement times. Her are some Advantages of SwiftCourt. Real-time transactions eliminating delays caused by traditional banking rails.2) Escrow Governance reducing need for intermediaries and minimizing disputes.3) Conduct transactions in fiat currency through the use of blockchain ensuring quicker settlement times.4) Enhanced security and transparency.5) Lower cost of transactions",
+  
+      "socialLinks": {
+        "x": "",
+        "linkedin": "",
+        "telegram": "",
+        "github": ""
+      },
+      "siteLink": "https://swiftcourt.com",
+      "tags": ["DeFi", "Escrow"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 3,
+      "name": "Valid Protocol",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/validProtocol-icon.svg",
+      "description":
+        "Valid is a community staking protocol developed on the XDC network. It enables users to collectively stake 10,000,000 XDC tokens to establish a Standby MasterNode.",
+      "longDescription": "Valid is a community staking protocol developed on the XDC network. It enables users to collectively stake 10,000,000 XDC tokens to establish a Standby MasterNode.The Valid Protocol permits users to stake in increments of 10,000 XDC, with the maximum contribution capped at 10,000,000 XDC. Furthermore, each node can accommodate a maximum of 1,000 community wallets. Valid Protocol was intentionally designed to empower the XDC community with the technical means to engage in the ecosystem of XDC Masternodes. The recent surge in institutional demand for these Masternodes has significantly limited the community's access to this high-value asset class.However, by collaboratively staking in the Masternode space, the XDC community can establish its own robust ecosystem, one that is resilient to external pressures. This approach not only secures a method for the community to earn monthly rewards at their discretion but also ensures their active role in maintaining the infrastructure of the XDC Network.",
+      "socialLinks": {
+        "x": "Valid Protocol",
+        "linkedin": "",
+        "telegram": "",
+        "github": ""
+      },
+      "siteLink": "https://app.validprotocol.io/",
+      "tags": ["DeFi"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 4,
+      "name": "Circularity Finance",
+      "track": "RWA",
+      "icon": "https://cdn.openscan.ai/dapp/circularityFinance.svg",
+      "description":
+        "Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.",
+      "longDescription":
+        "Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.It introduces two utility tokens, CIFI and REFI, to create an innovative ecosystem . By integrating the latest Distributed Ledger Technology (DLT), it enhances security and capital management. Circularity Finance aims to simplify the acquisition of XDC through its user-friendly Launchpad . The project is noted for empowering small and medium-sized enterprises (SMEs) through regenerative finance.",
+      "socialLinks": {
+        "x": "",
+        "linkedin": "https://www.linkedin.com/showcase/circularityfinance/",
+        "telegram": "",
+        "github": "",
+        "twitter": "https://x.com/circularityfi"
+      },
+      "siteLink": "https://www.circularity.finance/",
+      "tags": ["RWA"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 5,
+      "name": "Coinsbee",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/coinsbee-icon.svg",
+      "description":
+        "Coinsbee is a leading platform that allows you to use cryptocurrencies to purchase gift cards, mobile top-ups, and payment cards for a variety of services and retailers worldwide being compatible with any wallet.",
+      "longDescription":
+        "Coinsbee is a leading platform that allows you to use cryptocurrencies to purchase gift cards, mobile top-ups, and payment cards for a variety of services and retailers worldwide being compatible with any wallet.Coinsbee is designed with a focus on security and ease of use, providing a safe and smooth transaction process from start to finish, with instant delivery of digital products anywhere in the world. Being compatible with any wallet, supporting XDC and more than 200 cryptocurrencies for payment, our platform bridges the gap between cryptocurrencies and everyday transactions, providing a practical use for digital assets in everyday life.",
+      "socialLinks": {
+        "x": "Coinsbee",
+        "linkedin": "",
+        "telegram": "https://t.me/coinsbee",
+        "github": "",
+        "twitter": "https://x.com/coinsbee",
+        "reddit": "https://www.reddit.com/user/coinsbee_com/?rdt=39931"
+      },
+      "siteLink": "https://www.coinsbee.com/en/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 6,
+      "name": "Wefi",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/wefi-icon.svg",
+      "description":
+        "WeFi, short for We Finance, stands as an Insured Omnichain leveraged trading protocol built on LayerZero.",
+      "longDescription":
+        "WeFi, short for We Finance, stands as an Insured Omnichain leveraged trading protocol built on LayerZero. It unlocks a world of opportunities for DeFi users, offering features such as bridging, swapping, lending, leverage trading, and staking tokens.WeFi is meticulously designed to provide a seamless DeFi experience across multiple blockchain networks.",
+      "socialLinks": {
+        "x": "Wefi",
+        "linkedin": "",
+        "telegram": "https://t.me/wefi_xyz",
+        "github": "https://github.com/wefi-xyz/",
+        "twitter": "https://x.com/wefi_xyz",
+        "discord": "https://discord.com/invite/B6U6kectbV"
+      },
+      "siteLink": "https://wefi.xyz/",
+      "tags": ["DeFi"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 7,
+      "name": "Fathom",
+      "track": "DEX",
+      "icon": "https://cdn.openscan.ai/dapp/fathom-icon.svg",
+      "description":
+        "Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.",
+      "longDescription":
+        "Deposit XDC to mint and borrow FXD.1 FXD is soft-pegged to 1 USD. Convert FXD to other stable assets on the Fathom DEX and/or with the brokers in our ecosystem.Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.Fathom Protocol is a decentralized finance ecosystem built on the XDC network. The Protocol's purpose is to increase the liquidity of the XDC network and make FXD, over-collateralized and soft-pegged Stablecoin, a central part of the XDC network DeFi ecosystem.Fathom's Decentralized Exchange (DEX) serves as the main trading venue and Price Oracle for XDC, bringing additional liquidity to the XDC network. In the future, tokenized real-world assets will be traded on the Fathom DEX, further increasing the liquidity of the XDC network.",
+      "socialLinks": {
+        "x": "Fathom",
+        "linkedin": "https://www.linkedin.com/company/fathom-protocol/",
+        "telegram": "https://t.me/fathom_fi",
+        "github": "https://github.com/Into-the-Fathom",
+        "twitter": "https://x.com/fathom_fi"
+      },
+      "siteLink": "https://fathom.fi/",
+      "tags": ["DEX"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 8,
+      "name": "PrimePort",
+      "track": "NFTs",
+      "icon": "https://cdn.openscan.ai/dapp/primeport-icon.svg",
+      "description":
+        "PrimePort, Your Gateway to the Universe of NFTs! At PrimePort.xyz, dive into the exciting world of crypto collectibles and non-fungible tokens, where creativity knows no bounds.",
+      "longDescription":
+        "PrimePort, Your Gateway to the Universe of NFTs! At PrimePort.xyz, dive into the exciting world of crypto collectibles and non-fungible tokens, where creativity knows no bounds. Our platform empowers you to seamlessly Create, Trade, and Collect NFTs, making your digital dreams a reality.Embrace the future of digital ownership with PrimePort on the XDC Network. Start your NFT journey today and unlock the door to a universe of endless possibilities!",
+      "socialLinks": {
+        "x": "PrimePort",
+        "linkedin": "",
+        "telegram": "https://t.me/PrimeNumbersFi",
+        "github": "",
+        "twitter": "https://x.com/PrimeNumbersFi",
+        "discord": "https://discord.com/invite/primenumbers"
+      },
+      "siteLink": "https://primeport.xyz/",
+      "tags": ["NFTs"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 9,
+      "name": "ComTech Gold",
+      "track": "RWA",
+      "icon": "https://cdn.openscan.ai/dapp/comtechgold.svg",
+      "description":
+        "ComTech Gold is transforming tokenization with blockchain technology, enabling global electronic access to gold for institutions and individuals.",
+      "longDescription":
+        "ComTech Gold is redefining the tokenization infrastructure by the digitization of Gold using Blockchain Technology that allows both institutional and retail communities to get access to Gold electronically anywhere across the Globe.ComTech Gold tokens will be 100% backed by physical Gold in the form of Standardized 1 kg bars of 999 purity stored in a secured physical Vault custodian on a segregated and auditable basis. Working within regulatory frameworks, we aim to create an ecosystem built with integrity, transparency, and efficiency to encourage the financial industry to raise the bar and discover new ways to service the Global community.",
+      "socialLinks": {
+        "x": "ComTech Gold",
+        "linkedin": "https://www.linkedin.com/company/comtechofficial/",
+        "telegram": "https://t.me/ComTechGold",
+        "github": "",
+        "twitter": "https://x.com/ComTechOfficial",
+        "discord": "https://discord.com/invite/WbSjANXj7A"
+      },
+      "siteLink": "https://comtechgold.com/",
+      "tags": ["RWA"],
+      "useCases": [{}, {}]
+    },
+  
+    {
+      "projectId": 10,
+      "name": "Resmic",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/resmic-icon.svg",
+      "description":
+        "Resmic is redefining Crypto financial transactions with decentralised payment infrastructure, designed for both businesses & individuals.",
+      "longDescription":
+        "With Resmic, embrace a decentralised future and let your transactions flow seamlessly across every cryptocurrency.Resmic integrated XDC Network is redefining Crypto financial transactions with our decentralised payment infrastructure, designed for businesses and individuals.Resmic eliminates intermediaries, ensuring self-custody, zero downtime, and instant settlements. It makes accepting crypto payments easy, reliable, secure, and truly decentralized.",
+      "socialLinks": {
+        "x": "Resmic",
+        "linkedin": "https://www.linkedin.com/company/resmic/",
+        "telegram": "",
+        "github": "https://github.com/0xResmic",
+        "twitter": "https://x.com/i/flow/login?redirect_after_login=%2F0xResmic"
+      },
+      "siteLink": "https://resmic.com/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 11,
+      "name": "Law Blocks AI",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/lawblocks-icon.svg",
+      "description":
+        "Law Blocks Creates your Smart Legal Contracts using Blockchain Technology.",
+      "longDescription":
+        "Law Blocks Creates your Smart Legal Contracts using Blockchain Technology. Law Blocks Token (LBT) is an XRC-20 utility token that powers Law Blocks Eco System through XDC Blockchain Network.Law Blocks is a user-friendly, time saving and community-driven truly smart truly legal contract-based platform for creating legal documents (on blockchain technology) such as Agreements, Power of Attorney, Business Contracts, Declarations, Affidavits, Memorandum of Understanding, etc. subject to yourselves following the prevalent laws in the country in which it has to be acted upon and subject to yourselves following the process of ensuring the validity of those documents in accordance with law, which is cryptographically signed by each party thereby acknowledging their covenants.",
+      "socialLinks": {
+        "x": "Law Blocks AI",
+        "linkedin": "https://www.linkedin.com/company/lawblocks/",
+        "telegram": "https://t.me/LawBlocks_updates",
+        "github": "https://github.com/LawBlocks",
+        "twitter": "https://x.com/lawblockstoken"
+      },
+      "siteLink": "https://lawblocks.io/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 12,
+      "name": "Prime Numbers",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/primenumbers-icon.svg",
+      "description":
+        "Prime Numbers is an ecosystem composed of different DEFI and NFT protocols that generate revenue for its community on the XDC Blockchain.",
+      "longDescription":
+        "Prime Numbers is an ecosystem composed of different DEFI and NFT protocols that generate revenue for its community on the XDC Blockchain.Our ecosystem generates revenue through the fees created at PrimePort NFT Marketplace and Prime Numbers Finance, the first lending and borrowing protocol on XDC.We reward our community through our NFTs collections, which have a revolutionary staking system where you stake tokens inside your NFTs to earn rewards.",
+      "socialLinks": {
+        "x": "Prime Numbers",
+        "linkedin": "https://www.linkedin.com/company/prime-numbers-labs/",
+        "telegram": "https://t.me/PrimeNumbersFi",
+        "github": "https://github.com/PrimeNumbersNFT",
+        "twitter": "https://x.com/PrimeNumbersFi"
+      },
+      "siteLink": "https://primenumbers.xyz/",
+      "tags": ["DeFi"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 13,
+      "name": "StorX",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/storx-icon.svg",
+      "description":
+        "StorX is a decentralized cloud storage network, Which empowers users to store their data securely on the cloud.",
+      "longDescription":
+        "StorX is a decentralized cloud storage network, Which empowers users to store their data securely on the cloud.Each file uploaded on StorX is split and encrypted into multiple fragments to autonomous storage nodes operated by individual operators across the world.Designed as the collection of autonomous storage networks, no individual operator has complete access to the data. StorX is faster than legacy centralized storage providers and enables users to save costs compared to a centralized cloud. StorX also enables users with spare storage capacity to lease space and earn fabulous returns.",
+      "socialLinks": {
+        "x": "StorX",
+        "linkedin": "https://www.linkedin.com/company/storxnetwork/",
+        "telegram": "https://t.me/StorXNetwork",
+        "github": "https://github.com/StorXNetwork",
+        "twitter": "https://x.com/StorXNetwork"
+      },
+      "siteLink": "https://www.storx.tech/",
+      "tags": ["DeFi"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 14,
+      "name": "Impel",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/impel-icon.svg",
+      "description":
+        "ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.",
+      "longDescription":
+        "ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.Impel is a fintech innovator that uses blockchain technology to deliver financial messaging, payments, and a bridge to the R3 Corda platform to future-facing banks and fintech. It provides a cost-effective alternative to legacy financial messaging solutions like SWIFT and SEPA. It uses a decentralized, enterprise-ready hybrid blockchain to securely and quickly send financial messages and payments and enable instant settlement.",
+      "socialLinks": {
+        "x": "Impel",
+        "linkedin": "https://www.linkedin.com/company/impel-official/",
+        "telegram": "https://t.me/impel_official",
+        "github":
+          "https://x.com/i/flow/login?redirect_after_login=%2FImpel_official",
+        "gitlab": "https://gitlab.com/Impel-official"
+      },
+      "siteLink": "https://www.impel.global/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 15,
+      "name": "TradeFinex",
+      "track": "RWA",
+      "icon": "https://cdn.openscan.ai/dapp/tradefinex-icon.svg",
+      "description":
+        "TradeFinex.org is a p2p trade finance platform to create trade instruments of value between buyers and sellers in Trade Finance market.",
+      "longDescription":
+        "TradeFinex.org is a p2p trade finance platform to create trade instruments of value between buyers and sellers in Trade Finance market. It is an open protocol for banks, institutions and users consortium-led governance makes it truly decentralized.TradeFinex platform will help buyers secure capital at globally competitive rates, give suppliers visibility on global tenders & customer base as well as provide financiers real time visibility on their investments by digitizating their assets and IoT integration.TradeFinex is an open API platform that is compatible with legacy systems and ISO20022 and allows users to share documents, supports Decentralized Credit Data and Decentralized KYC Data with zero knowledge proofs. TradeFinex comes with other attributes including Asset/Projects Monitoring, Private Network Interactions, Smart-Contracts, Post-Trade Settlements, Counter-Party Risk Mitigation and Increased Liquidity.",
+      "socialLinks": {
+        "x": "TradeFinex",
+        "linkedin": "https://www.linkedin.com/404/",
+        "telegram": "",
+        "github": "",
+        "twitter": "https://x.com/i/flow/login?redirect_after_login=%2FTradeFinex"
+      },
+      "siteLink": "https://www.tradefinex.org/",
+      "tags": ["RWA"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 16,
+      "name": "XDC Trade Network",
+      "track": "RWA",
+      "icon": "https://cdn.openscan.ai/dapp/xdctradenetwork-icon.svg",
+      "description":
+        "XDC Trade Network is a blockchain-based platform that aims to simplify global trade finance by making it more digital and efficient.",
+      "longDescription":
+        "XDC Trade Network is a blockchain-based platform that aims to simplify global trade finance by making it more digital and efficient.It focuses on using digital documents, secure payments, and partnerships to streamline the trade finance process.The platform aims to digitize and automate trade finance processes, offering benefits like real-time tracking, reduced paperwork, faster transactions, and improved accessibility for small and medium-sized enterprises (SMEs).",
+      "socialLinks": {
+        "x": "XDC Trade Network",
+        "linkedin": "https://www.linkedin.com/company/xdc-trade-network/",
+        "telegram": "",
+        "github": "",
+        "twitter": "https://x.com/XDCTradeNetwork"
+      },
+      "siteLink": "https://www.xdctrade.network/",
+      "tags": ["RWA"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 17,
+      "name": "Mintnite",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/mintnite-icon_light.svg",
+      "description":
+        "Mintnite, a multi-use-case Web3 minting tool that anyone can mint fungible tokens, NFTs and even SBTs (soulbound tokens) with no programming required.",
+      "longDescription":
+        "Mintnite is a multi-use-case Web3 minting tool that anyone can mint fungible tokens, NFTs and even SBTs (soulbound tokens) with no programming required. It supports bulk NFT minting and tokens can be set as public or private.No registration is required and anyone can own their smart contract (no custody whatsoever). You can create as many smart contracts as you wish with no limits on the number of tokens minted. Mint your tokens on XDC Network and also a wide range of Web3 mainnets and testnets are available.",
+      "socialLinks": {
+        "x": "Mintnite",
+        "linkedin": "",
+        "telegram": "",
+        "github": "https://github.com/Mintnite",
+        "twitter": "https://x.com/i/flow/login?redirect_after_login=%2Fmintniteio",
+        "discord": "https://discord.com/invite/kQTEvCgbPw"
+      },
+      "siteLink": "https://mintnite.io/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 18,
+      "name": "Chain IDE",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/chainide.svg",
+      "description":
+        "The world's first and largest cloud-based multichain IDE for developers to create smart contracts and dApps.",
+      "longDescription":
+        "The world's first and largest cloud-based multichain IDE for developers to create smart contracts and dApps.ChainIDE is a cloud-based IDE for creating decentralized applications to deploy on blockchains such as Ethereum, XDC Network, BNB Chain, Polygon, Conflux, Nervos, Dfinity, Flow, Aptos, Astar, etc. It fasts the development cycle and has pre-installed plugins that save users time and effort. It provides a complete and ready-to-use environment for innovative contract development and detailed documentation for learning purposes.ChainIDE is a powerful cloud-based IDE that helps you write smart contracts in different programming languages and deploy them to other blockchains. It has modules for writing, compiling, debugging, testing, deploying a smart contract, and much more.",
+      "socialLinks": {
+        "x": "Chain IDE",
+        "linkedin": "",
+        "telegram": "",
+        "github": "",
+        "twitter": "https://x.com/ChainIDE"
+      },
+      "siteLink": "https://chainide.com/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 19,
+      "name": "ivendPay",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/ivendpay-icon.svg",
+      "description":
+        "ivendPay stands at the forefront of fintech innovation, offering a comprehensive solution for merchants to accept cryptocurrency payments.",
+      "longDescription":
+        "ivendPay stands at the forefront of fintech innovation, offering a comprehensive solution for merchants to accept cryptocurrency payments.By integrating with POS terminals, e-commerce plugins, APIs, and vending machines, ivendPay simplifies digital transactions, making cryptocurrencies a viable payment option in everyday commerce. Its strategic partnership with Zima Bank and presence in major financial hubs like the FinTech House in Lisbon underscore its commitment to global cryptocurrency payment processing.",
+      "socialLinks": {
+        "x": "ivendPay",
+        "linkedin": "https://www.linkedin.com/company/ivpay/",
+        "telegram": "https://t.me/ivendpay",
+        "github": "",
+        "twitter": "https://x.com/ivendpay"
+      },
+      "siteLink": "https://ivpay.io/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 20,
+      "name": "GlobianceDEX",
+      "track": "DEX",
+      "icon": "https://cdn.openscan.ai/dapp/globiance-icon.svg",
+      "description":
+        "GlobianceDEX is the first decentralized exchange built on the leading XDC blockchain.",
+      "longDescription":
+        "GlobianceDEX is the first decentralized exchange built on the leading XDC Network.Developed as an Automated-market-maker ( AMM ) on XDC, where a collection of smart contracts are used to create liquidity pools, provide liquidity, and swap XRC-20 tokens. Globiance DEX offers incentives and rewards to all players as well as effective speediness, reduced costs, and enhanced performance.The goal of GlobianceDEX is to become a launchpad for all XRC20 tokens, offer cross-chain solutions, and provide a base for XDC based NFTs as an NFT marketplace.",
+      "socialLinks": {
+        "x": "GlobianceDEX",
+        "linkedin": "https://www.linkedin.com/company/globiance/",
+        "telegram": "https://t.me/globiancegroup",
+        "github": "https://github.com/Globiance/",
+        "twitter": "https://x.com/globiance"
+      },
+      "siteLink": "https://dex.globiance.com/",
+      "tags": ["DEX"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 21,
+      "name": "Fluent Finance",
+      "track": "RWA",
+      "icon": "https://cdn.openscan.ai/dapp/fluentFinance-icon_light.svg",
+      "description":
+        "Fintech infrastructure company responsible for developing the connections from core banking to public layers, bridging Web2 to Web3 utilizing the Fluent Protocol.",
+      "longDescription":
+        "Fintech infrastructure company responsible for developing the connections from core banking to public layers, bridging Web2 to Web3 utilizing the Fluent Protocol.Fluent Finance is a blockchain-based finance company that is building a bridge between the traditional financial system and the decentralized world. It offers a range of products and services that enable banks and other financial institutions to participate in the on-chain economy.Fluent Finance's flagship product is its Deposit Token Infrastructure (DTI). This infrastructure allows banks to tokenize their deposits, which can then be used to access decentralized financial applications and services. The DTI also provides banks with a way to collateralize their deposits and issue loans on-chain.",
+      "socialLinks": {
+        "x": "Fluent Finance",
+        "linkedin": "https://www.linkedin.com/company/fluent-finance/",
+        "telegram": "",
+        "github": "https://github.com/Fluent-Finance",
+        "twitter": "https://x.com/Fluentinfra",
+        "discord": "https://discord.com/invite/22ywcEfU65"
+      },
+      "siteLink":
+        "https://www.godaddy.com/forsale/fluent.finance?traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+      "tags": ["RWA"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 22,
+      "name": "Choise",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/choise.svg",
+      "description":
+        "Choise.com - the easiest and safest way to buy and earn crypto.",
+      "longDescription":
+        "Choise.com - the easiest and safest way to buy and earn crypto.Get your free wallet for Bitcoin or other 19 cryptocurrencies. Buy XDC, BTC, ETH, and other cryptos with your bank card, or instantly get your own free Visa card to withdraw worldwide. Earn interest, exchange on the best rates and stay safe with banking class security.The Crypterium wallet combines traditional finances and digital assets with an unlimited amount of wallets to buy, cash out and earn crypto. It supports XDC, BTC, ETH, and many more. Transfer your crypto with just a phone number or wallet address worldwide for free.",
+      "socialLinks": {
+        "x": "Choise",
+        "linkedin": "https://www.linkedin.com/company/choiseai/",
+        "telegram": "https://t.me/choise_com",
+        "github": "",
+        "twitter": "https://x.com/ChoiseCom",
+        "discord": "https://discord.com/invite/GQbcNbRWSm"
+      },
+      "siteLink": "https://choise.com/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 23,
+      "name": "XDCNFT",
+      "track": "NFTs",
+      "icon": "https://cdn.openscan.ai/dapp/metabloqs-icon.svg",
+      "description":
+        "XDCNFT is the NFT marketplace on the XDC Blockchain and is part of BlocksWorkz LTD, a UK-based technology.",
+      "longDescription":
+        "XDCNFT is the NFT marketplace on the XDC Network and is part of BlocksWorkz LTD, a UK-based technology.The XDCNFT Marketplace is one of the quickest, smartest, and most anticipated secure Marketplace on the XRC20 Blockchain. The Gas-fees on the XDC network(XRC20) average at a fraction of 1 USD, and the buyer/seller price fee per NFT is just 1% of the overall value.XDCNFT has no installation fees, making the Marketplace one of the most appealing to NFT Buyers and Sellers worldwide.",
+      "socialLinks": {
+        "x": "XDCNFT",
+        "linkedin": "",
+        "telegram": "https://t.me/blocksworkz",
+        "github": "",
+        "twitter": "https://x.com/i/flow/login?redirect_after_login=%2Fxdcnft"
+      },
+      "siteLink": "https://app.xdcnft.com/",
+      "tags": ["NFTs"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 24,
+      "name": "XSwap",
+      "track": "DEX",
+      "icon": "https://cdn.openscan.ai/dapp/xswap-icon.svg",
+      "description":
+        "XSwap protocol is an automated market maker for XRC20 tokens built on the XDC Network.",
+      "longDescription":
+        "XSwap protocol is an automated market maker for XRC20 tokens built on the XDC Network.XSwap is focused on building the challenger of BSC-based PancakeSwap (CAKE) and Ethereum-based Uniswap (UNI). As such, empowering crypto enthusiasts with secure, fast, and resource-efficient instruments for the peer-to-peer exchange of digital assets is its primary focuses.Released on top of the XDC Network, XSwap facilitates exchange between XRC-20 tokens (standard similar to ERC-20 on Ethereum and TRC-20 on Tron). Besides a reliable exchange and liquidity ecosystem, XSwap will also be a gateway to crypto markets for early-stage products of all sorts.",
+      "socialLinks": {
+        "x": "XSwap",
+        "linkedin": "",
+        "telegram": "https://t.me/real_XSwapProtocol",
+        "github": "https://github.com/XSwapProtocol",
+        "twitter": "https://x.com/XSwapProtocol"
+      },
+      "siteLink": "https://xspswap.finance/",
+      "tags": ["DEX"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 25,
+      "name": "Globiance",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/globiance-icon.svg",
+      "description":
+        "Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.",
+      "longDescription":
+        "Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.Globiance provides a platform for trading various cryptocurrencies. Users can typically create accounts, deposit funds, and trade digital assets like XDC, Bitcoin, Ethereum, and other cryptocurrencies.",
+      "socialLinks": {
+        "x": "Globiance",
+        "linkedin": "https://www.linkedin.com/company/globiance/",
+        "telegram": "https://t.me/globiancegroup",
+        "github": "https://github.com/Globiance/",
+        "twitter": "https://x.com/globiance"
+      },
+      "siteLink": "https://globiance.com/",
+      "tags": ["DeFi"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 26,
+      "name": "Yieldteq",
+      "track": "RWA",
+      "icon": "https://cdn.openscan.ai/dapp/yieldteq-icon.svg",
+      "description":
+        "Stable yield-bearing financial instruments securely delivered as on-chain financial products.",
+      "longDescription":
+        "U.S. Treasury Tokens (USTY) on the cutting-edge XDC Network – your gateway to the future of finance! Earn a stable 5.33%* yield with U.S. Treasuries, securely delivered as on-chain financial products. USTY offers exposure to an ETF tracking US Dollar denominated government bonds with maturities between zero and one year, providing a safe haven for your capital.USTY unlocks Web3 potential, offering short-term U.S. government debt access. With investment-grade backing, on-chain assets guarantee security. Enjoy liquid BlackRock-managed assets, XDC Network integration for seamless transactions and smart contracts. USTY mitigates stablecoin depegging risk through fiat allocation, ensuring investment stability.Experience the future of finance with U.S. Treasury Tokens on the XDC Network – stable returns, deep liquidity, and unparalleled transparency. Invest in the future today with USTY!.",
+      "socialLinks": {
+        "x": "Yieldteq",
+        "linkedin": "https://www.linkedin.com/company/yieldteq/about/",
+        "telegram": "",
+        "github": "",
+        "twitter": "https://x.com/i/flow/login?redirect_after_login=%2Fyieldteq"
+      },
+      "siteLink": "https://www.yieldteq.io/",
+      "tags": ["RWA"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 27,
+      "name": "Blockdegree",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/blockdegree.svg",
+      "description":
+        "Blockdegree provides Verified Certifications to developers around Blockchain Technology, Ethereum and XDC Protocol.",
+      "longDescription":
+        "Blockdegree exists to create awareness of XDC Network's platforms. Blockdegree provides online blockchain training to engineers and professionals. These engineers and professionals can avail basic and advanced courses from Blockdegree and start development around our platforms.The Academy intends to make engineers' path easier by providing them knowledge about XDC Protocol, XDC Use Cases and the technology used to build these use cases under one umbrella. Blockdegree will also provide Verified Certifications to developers around Blockchain Technology, Ethereum and XDC Protocol.",
+      "socialLinks": {
+        "x": "Blockdegree",
+        "linkedin": "https://www.linkedin.com/company/blockdegree/",
+        "telegram": "",
+        "github": "",
+        "twitter":
+          "https://x.com/i/flow/login?redirect_after_login=%2FBlockdegree_org"
+      },
+      "siteLink": "https://www.blockdegree.org/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 28,
+      "name": "BlocksScan",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/blocksscan.svg",
+      "description":
+        "BlocksScan is a Block Explorer and Analytics Platform for XDC, ETH decentralized smart contracts platform.",
+      "longDescription":
+        "BlocksScan is a Block Explorer and Analytics Platform for XDC, ETH decentralized smart contracts platform.BlocksScan.io on a mission to provide best Search experience to all the users with different Blockchain Network under a single roof. BlocksScan.io focused on making decentralized information accessible for end-users.We made this possible for blockchains with features of NFT, De-Fi, Examining all blocks, transactions, finality, smart contracts, token information with user-friendly interface.",
+      "socialLinks": {
+        "x": "BlocksScan",
+        "linkedin": "https://www.linkedin.com/company/openscanai/",
+        "telegram": "https://t.me/blocksscan_updates",
+        "github": "",
+        "twitter": "https://x.com/BlocksScan"
+      },
+      "siteLink": "https://openscan.ai/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 29,
+      "name": "Voy Finance",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/voyFinance-icon.svg",
+      "description":
+        "Voy Finance is a financial institution that provides financial solutions to SMEs, banks, funds, and governments.",
+      "longDescription":
+        "Voy Finance is a financial institution that provides financial solutions to SMEs, banks, funds, and governments.Voy, bridging the gap between DeFi funds and our digital trade finance network with digital eBLs and tokenised LCs conformed to our SASB ESG certification solution for sustainable trade finance removing fraud double entry, risk and enhanced traceability engaging new emerging markets and SMES. Financing the unfinanceable SME market, reducing banks exposure by combining with DeFi pools and reducing costs and inefficient manual and paper friction.",
+      "socialLinks": {
+        "x": "Voy Finance",
+        "linkedin": "https://www.linkedin.com/company/voyfinance/",
+        "telegram": "https://t.me/voyfinance",
+        "github": "",
+        "twitter": "https://x.com/voyfinance"
+      },
+      "siteLink": "https://voy.finance/",
+      "tags": ["DeFi"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 30,
+      "name": "XcelTrip",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/xceltrip-icon.svg",
+      "description":
+        "XcelTrip is a next-gen, blockchain-based, and decentralized solution, designed with the intent to disrupt the trillion-dollar travel industry.",
+      "longDescription":
+        "XcelTrip is a next-gen, blockchain-based, and decentralized solution, designed with the intent to disrupt the trillion-dollar travel industry.Alongside an expanding partner base of over 1.5 million hotels and 400 airline companies, the platform strives to democratize use-cases within the blockchain and cryptocurrency domain.Leveraging the platform's web, android, and iOS applications, XcelTrip users can pay for their travel needs using Bitcoin, Ethereum, etc., and is now integrated the XDC token.",
+      "socialLinks": {
+        "x": "XcelTrip",
+        "linkedin": "https://www.linkedin.com/company/xceltrip/",
+        "telegram": "",
+        "github": "",
+        "twitter": "https://x.com/xceltrip"
+      },
+      "siteLink": "https://www.xceltrip.com/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 31,
+      "name": "XDSea",
+      "track": "NFTs",
+      "icon": "https://cdn.openscan.ai/dapp/xdsea-icon.svg",
+      "description":
+        "XDSea is the world's first and largest peer-to-peer decentralized marketplace for buying and selling NFTs built on the XDC Network (XRC) blockchain.",
+      "longDescription":
+        "XDSea is the world's first and largest peer-to-peer decentralized marketplace for buying and selling NFTs built on the XDC Network (XRC) blockchain.NFTs stand for unique Non-Fungible Tokens collectible digital items such as in-game assets, avatars, trading cards, and art. A non-fungible token, or NFT, is a new digital product that we're thrilled about at XDSea.NFTs offer some intriguing new properties: they're one-of-a-kind, provably scarce, tradeable, and applicable to various applications.",
+      "socialLinks": {
+        "x": "XDSea",
+        "linkedin": "",
+        "telegram": "",
+        "github": "",
+        "twitter": "https://x.com/i/flow/login?redirect_after_login=%2Fxdseanft"
+      },
+      "siteLink": "https://xdsea.com/",
+      "tags": ["NFTs"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 32,
+      "name": "XDC Web3 Domains",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/xdc-web3-domains-icon.svg",
+      "description":
+        "XDC Web3 Domains - Own Your Blockchain Domains. Building Identity on blockchain with .xdc domains.",
+      "longDescription":
+        "XDC Web3 Domains - Own Your Blockchain Domains. Building Identity on blockchain with .xdc domains.NFT domain is not only a wallet name, it also has functions of a website address. As a website, the users can type in their NFT domain name in a compatible browser, it will show users the website content that they put there. As a cryptocurrency wallet, they can use that same domain name to send and receive cryptocurrencies..xdc domains are not centralized, after purchasing them, they are yours for life and you can also control it fully without third parties dictating rules to you.",
+      "socialLinks": {
+        "x": "XDC Web3 Domains",
+        "linkedin": "",
+        "telegram": "",
+        "github": "https://github.com/XDCWeb3Domains",
+        "twitter": "https://x.com/XDCDomains"
+      },
+      "siteLink": "https://xdcdomains.xyz/",
+      "tags": ["DeFi"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 33,
+      "name": "IceCreamSwap",
+      "track": "DEX",
+      "icon": "https://cdn.openscan.ai/dapp/iceCreamSwap-icon.svg",
+      "description":
+        "IceCreamSwap allows direct bridging between many chains with its audited and battle tested smart contracts.",
+      "longDescription":
+        "IceCreamSwap allows direct bridging between many chains with its audited and battle tested smart contracts.IceCreamSwap is a decentralized exchange (DEX) that operates on the Binance Smart Chain (BSC). It allows users to swap cryptocurrencies without the need for a central authority. IceCreamSwap also offers a range of other features, including yield farming, staking, and vaults.IceCreamSwap is governed by the ICE token, which is used to pay for fees and participate in governance decisions. IceCreamSwap is also a community-driven project, with a strong team of developers and a dedicated community of users.",
+      "socialLinks": {
+        "x": "IceCreamSwap",
+        "linkedin": "",
+        "telegram": "https://t.me/Icecreamswap_com",
+        "github": "",
+        "twitter": "https://x.com/icecream_swap"
+      },
+      "siteLink": "https://icecreamswap.com/?chainId=1116",
+      "tags": ["DEX"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 34,
+      "name": "Travala",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/travala-icon.svg",
+      "description":
+        "Travala.com is the most epic cryptocurrency-friendly travel booking service with 2.2 million properties, over 400k activities in 230 countries, and 600 airlines globally.",
+      "longDescription":
+        "Travala.com is the most epic cryptocurrency-friendly travel booking service with 2.2 million properties, over 400k activities in 230 countries, and 600 airlines globally.Travala.com is a champion of cryptocurrency adoption, accepting more than 50 leading cryptocurrencies along with traditional payment methods.Travala.com's vision is to align travel booking with the ethos of decentralized technology.",
+      "socialLinks": {
+        "x": "Travala",
+        "linkedin": "https://www.linkedin.com/company/travalacom/",
+        "telegram": "https://t.me/travala",
+        "github": "",
+        "twitter": "https://x.com/travalacom",
+        "discord": "https://discord.com/invite/CkayVgx6nY"
+      },
+      "siteLink": "https://www.travala.com/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 35,
+      "name": "Metabloqs",
+      "track": "DeFi",
+      "icon": "https://cdn.openscan.ai/dapp/metabloqs-icon.svg",
+      "description":
+        "Metabloqs, a virtual world on the XDC Network, designed to cater to a wide range of user interests.",
+      "longDescription":
+        "Metabloqs is a virtual world powered by XDC Network that fits in with users diverse needs whether you want to pick a skillset, engage into networking, or enjoy some time playing.Creating a unique ecosystem in the process, Metabloqs rolls out a world where users can create, own, and monetize their experiences using their token, the native utility token.Citizens of Metabloqs are provided with a unique passport to enter the metaverse and can purchase land and rare goods as NFTs and create their dream projects.",
+      "socialLinks": {
+        "x": "Metabloqs",
+        "linkedin": "https://www.linkedin.com/company/metabloqs/",
+        "telegram": "",
+        "github": "",
+        "twitter": "https://x.com/i/flow/login?redirect_after_login=%2Fmetabloqs"
+      },
+      "siteLink": "https://metabloqs.com/",
+      "tags": ["DeFi"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 36,
+      "name": "Guarda Visa Card",
+      "track": "Web3",
+      "icon": "https://cdn.openscan.ai/dapp/guarda-icon.svg",
+      "description":
+        "Topup your Guarda Visa card with XDC and use anywhere in the world.",
+      "longDescription":
+        "Topup your Guarda Visa card with XDC and use anywhere in the world.Get your own Prepaid Visa Card by Guarda. Top it up using your XDC crypto and use it as a regular bank card anywhere in the world and easily spend XDC. Guarda Visa card is available as a Virtual card or plastic card.Order your visa card on Guarda and start using the card in your daily activity.",
+      "socialLinks": {
+        "x": "Guarda Visa Card",
+        "linkedin": "https://www.linkedin.com/showcase/guarda-wallet/",
+        "telegram": "https://t.me/guardawallet",
+        "github": "https://github.com/guardaco",
+        "twitter": "https://x.com/GuardaWallet"
+      },
+      "siteLink": "https://guarda.com/cards/xdc/",
+      "tags": ["Web3"],
+      "useCases": [{}, {}]
+    },
+    {
+      "projectId": 37,
+      "name": "STASIS/EURS",
+      "track": "RWA",
+      "icon": "https://cdn.openscan.ai/dapp/eurostasis-icon.svg",
+      "description":
+        "STASIS is a European fintech firm that serves as a bridge between traditional financial services and emerging Web 3 technologies.",
+      "longDescription":
+        "STASIS is a European fintech firm that serves as a bridge between traditional financial services and emerging Web 3 technologies. The company specializes in stablecoin applications and is dedicated to providing user-friendly tools for managing digital currencies.STASIS EURO, or EURS is a legal euro stablecoin that mirrors the Euro on the blockchain, and all tokens are fully backed by 1:1 collateral reserves.The EURS Network, powered by EURS, is an integrated ecosystem encompassing various crypto exchanges, financial services and platforms and digital wallets.",
+      "socialLinks": {
+        "x": "STASIS/EURS",
+        "linkedin": "https://www.linkedin.com/company/stasisnet/",
+        "telegram": "https://t.me/STASIS",
+        "github": "https://github.com/stasisnet",
+        "twitter": "https://x.com/stasisnet"
+      },
+      "siteLink": "https://stasis.net/",
+      "tags": ["RWA"],
+      "useCases": [{}, {}]
+    }
+  ]
+  
