@@ -1,192 +1,136 @@
 {
-  "footer": {
-    "copyRightsText": "BlocksScan.io All Rights Reserved",
-    "donationAddress": "xdc58c43c37a2e74c34352a809c447c223455e21006"
-  },
-  "links": {
-    "knowledgeBase": "https://www.xdc.dev/blocksscan",
-    "aboutUs": "https://blocksscan.io/",
-    "analytics": "https://analytics.xdc.network/",
-    "contactUs": "https://blocksscan.io/#support",
-    "termsOfServices": "https://blocksscan.io/#services",
-    "api": "https://docs.blocksscan.io/",
-    "networkStatus": "http://stats.xinfin.network:3000/",
-    "xdcNetwork": "https://xinfin.org/"
-  },
-  "social": {
-    "twitter": "https://twitter.com/blocksscan",
-    "github": "https://github.com/BlocksScan",
-    "facebook": "https://www.facebook.com/blocksscan",
-    "instagram": "https://www.instagram.com/blocksscan",
-    "telegram": "https://t.me/BlocksScanIO",
-    "reddit": "",
-    "medium": "https://medium.com/@blocksscanio",
-    "youtube": "https://www.youtube.com/@BlocksScan",
-    "coingecko": "",
-    "coinmarketcap": ""
-  },
-  "sponsor": [
-    {
-      "logo": "https://dopu.ai/assets/img/logo/logo-dark.png",
-      "title": "DOPU",
-      "description": " Meet DOPU, the 'Dog with a Purpose,' a friendly guide in the world of blockchain and peer-to-peer payments.",
-      "linkText": "Buy DOPU",
-      "link": "https://dopu.ai/"
+    "footer": {
+        "copyRightsText": "BlocksScan.io All Rights Reserved",
+        "donationAddress": "xdc58c43c37a2e74c34352a809c447c223455e21006"
     },
-    {
-      "logo": "https://storx.tech/assets/images/storx-logo.png",
-      "title": "StorX Network",
-      "description": " Distributed Cloud Storage Powered by XinFin Blockchain Network",
-      "linkText": "Explore StorX Network",
-      "link": "https://storx.tech/"
+    "links": {
+        "knowledgeBase": "https://www.xdc.dev/blocksscan",
+        "aboutUs": "https://blocksscan.io/",
+        "analytics": "https://analytics.xdc.network/",
+        "contactUs": "https://blocksscan.io/#support",
+        "termsOfServices": "https://blocksscan.io/#services",
+        "api": "https://docs.blocksscan.io/",
+        "networkStatus": "http://stats.xinfin.network:3000/",
+        "xdcNetwork": "https://xinfin.org/"
     },
-    {
-      "logo": "https://xinfin.org//assets/images/xdc-network-logo.svg",
-      "title": "XDC EVM Upgrade",
-      "description": " Integration of Solidity 0.8.23 on the XDC Mainnet has been successfully completed!",
-      "linkText": "Get Upgrade Info Here",
-      "link": "https://www.xdc.dev/anilchinchawale/stay-ahead-xdc-network-prepares-for-evm-0823-integration-on-xdc-mainnet-upgrade-details-inside-5nj"
+    "social": {
+        "twitter": "https://twitter.com/blocksscan",
+        "github": "https://github.com/BlocksScan",
+        "facebook": "https://www.facebook.com/blocksscan",
+        "instagram": "https://www.instagram.com/blocksscan",
+        "telegram": "https://t.me/BlocksScanIO",
+        "reddit": "",
+        "medium": "https://medium.com/@blocksscanio",
+        "youtube": "https://www.youtube.com/@BlocksScan",
+        "coingecko": "",
+        "coinmarketcap": ""
     },
-    {
-      "logo": "https://www.sbixdc.network/img/sbi_xdc_network_apac_logo/SBI%20XDC%20Network%20APAC%20Logo_white.svg",
-      "title": "XDC_R3 Bridge",
-      "description": " Pleased to announce that #XDC Network and #R3 Corda have successfully completed the Inter-business settlement PoC.",
-      "linkText": "Join XDC.Dev Community",
-      "link": "https://x.com/sbixdc/status/1796410924108279833"
-    },
-    {
-      "logo": "https://comtechgold.com/assets/images/logo.svg",
-      "title": "ComTech Gold",
-      "description": " Middle East’s Premier Destination for Digital Gold",
-      "linkText": "More Info",
-      "link": "https://comtechgold.com/"
+    "sponsor": [
+        {
+            "logo": "https://dopu.ai/assets/img/logo/logo-dark.png",
+            "title": "DOPU",
+            "description": " Meet DOPU, the 'Dog with a Purpose,' a friendly guide in the world of blockchain and peer-to-peer payments.",
+            "linkText": "Buy DOPU",
+            "link": "https://dopu.ai/"
+        },
+        {
+            "logo": "https://storx.tech/assets/images/storx-logo.png",
+            "title": "StorX Network",
+            "description": " Distributed Cloud Storage Powered by XinFin Blockchain Network",
+            "linkText": "Explore StorX Network",
+            "link": "https://storx.tech/"
+        },
+        {
+            "logo": "https://xinfin.org//assets/images/xdc-network-logo.svg",
+            "title": "XDC EVM Upgrade",
+            "description": " Integration of Solidity 0.8.23 on the XDC Mainnet has been successfully completed!",
+            "linkText": "Get Upgrade Info Here",
+            "link": "https://www.xdc.dev/anilchinchawale/stay-ahead-xdc-network-prepares-for-evm-0823-integration-on-xdc-mainnet-upgrade-details-inside-5nj"
+        },
+        {
+            "logo": "https://www.sbixdc.network/img/sbi_xdc_network_apac_logo/SBI%20XDC%20Network%20APAC%20Logo_white.svg",
+            "title": "XDC_R3 Bridge",
+            "description": " Pleased to announce that #XDC Network and #R3 Corda have successfully completed the Inter-business settlement PoC.",
+            "linkText": "Join XDC.Dev Community",
+            "link": "https://x.com/sbixdc/status/1796410924108279833"
+        },
+        {
+            "logo": "https://comtechgold.com/assets/images/logo.svg",
+            "title": "ComTech Gold",
+            "description": " Middle East’s Premier Destination for Digital Gold",
+            "linkText": "More Info",
+            "link": "https://comtechgold.com/"
+        }
+    ],
+    "ads": [
+
+        {
+            "url": "https://www.sbixdc.network/",
+            "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
+        },
+        {
+            "url": "https://x.com/XinFin_Official/status/1796650075629687075",
+            "image": "https://cdn.xinfinscan.com/img/5-Anniversary-6.jpg"
+        },
+        {
+            "url": "https://www.sbixdc.network/",
+            "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
+        },
+        {
+            "url": "https://x.com/XinFin_Official/status/1796650075629687075",
+            "image": "https://cdn.xinfinscan.com/img/5-Anniversary-4.jpg"
+        },
+        {
+            "url": "https://www.sbixdc.network/",
+            "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
+        },
+        {
+            "url": "https://t.me/BlocksScanIO",
+            "image": "https://cdn.xinfinscan.com/img/Ad-Banner_321x101.jpg"
+        },
+        {
+            "url": "https://www.sbixdc.network/",
+            "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
+        },
+        {
+            "url": "https://xdc.dev/",
+            "image": "https://cdn.xinfinscan.com/img/xdcdev_321x101.jpg"
+        },
+        {
+            "url": "https://www.sbixdc.network/",
+            "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
+        },
+        {
+            "url": "https://coderun.ai/",
+            "image": "https://cdn.xinfinscan.com/img/CoderunAI.jpg"
+        },
+        {
+            "url": "https://www.sbixdc.network/",
+            "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
+        },
+        {
+            "url": "https://dopu.ai/",
+            "image": "https://cdn.xinfinscan.com/img/dopu.jpg"
+        },
+        {
+            "url": "https://www.sbixdc.network/",
+            "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
+        },{
+            "url": "https://storx.tech/",
+            "image": "https://cdn.xinfinscan.com/img/StorX.png"
+        }
+    ],
+            "explorer":{
+                "mainnet":{
+                    "XDC Mainnet" : "https://xdcscan.io/"
+                },
+                "testnet":{
+                    "XDC2.0 Testnet" : "https://apothem.xdcscan.io/"
+                },
+                "devnet":{
+                    "XDC2.0 DevNet" : "https://devnet.xdcscan.io/"
+                }
+
+
     }
-  ],
-  "ads": [
-    {
-      "url": "https://www.sbixdc.network/",
-      "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
-    },
-    {
-      "url": "https://x.com/XinFin_Official/status/1796650075629687075",
-      "image": "https://cdn.xinfinscan.com/img/5-Anniversary-6.jpg"
-    },
-    {
-      "url": "https://www.sbixdc.network/",
-      "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
-    },
-    {
-      "url": "https://x.com/XinFin_Official/status/1796650075629687075",
-      "image": "https://cdn.xinfinscan.com/img/5-Anniversary-4.jpg"
-    },
-    {
-      "url": "https://www.sbixdc.network/",
-      "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
-    },
-    {
-      "url": "https://t.me/BlocksScanIO",
-      "image": "https://cdn.xinfinscan.com/img/Ad-Banner_321x101.jpg"
-    },
-    {
-      "url": "https://www.sbixdc.network/",
-      "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
-    },
-    {
-      "url": "https://xdc.dev/",
-      "image": "https://cdn.xinfinscan.com/img/xdcdev_321x101.jpg"
-    },
-    {
-      "url": "https://www.sbixdc.network/",
-      "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
-    },
-    {
-      "url": "https://coderun.ai/",
-      "image": "https://cdn.xinfinscan.com/img/CoderunAI.jpg"
-    },
-    {
-      "url": "https://www.sbixdc.network/",
-      "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
-    },
-    {
-      "url": "https://dopu.ai/",
-      "image": "https://cdn.xinfinscan.com/img/dopu.jpg"
-    },
-    {
-      "url": "https://www.sbixdc.network/",
-      "image": "https://cdn.xinfinscan.com/img/SBIXDC.jpg"
-    },
-    {
-      "url": "https://storx.tech/",
-      "image": "https://cdn.xinfinscan.com/img/StorX.png"
-    }
-  ],
-  "explorer": {
-    "mainnet": {
-      "XDC Mainnet": "https://xdcscan.io/"
-    },
-    "testnet": {
-      "XDC2.0 Testnet": "https://apothem.xdcscan.io/"
-    },
-    "devnet": {
-      "XDC2.0 DevNet": "https://devnet.xdcscan.io/"
-    }
-  },
-  "apothemTokens": [
-    {
-      "address": "",
-      "name": "XDC",
-      "type": "NATIVE",
-      "symbol": "XDC",
-      "decimals": 18,
-      "maxLimit": 50
-    },
-    {
-      "address": "0xdf29cb40cb92a1b8e8337f542e3846e185deff96",
-      "name": "FATHOM",
-      "type": "ERC20",
-      "symbol": "FXD",
-      "decimals": "18",
-      "maxLimit": "5"
-    },
-    {
-      "address": "0x5310f5934172D55E9E7C55f7E9070c458609F106",
-      "name": "FAUCETTEST",
-      "type": "ERC20",
-      "symbol": "FAUCET",
-      "decimals": 18,
-      "maxLimit": 100
-    },
-    {
-      "address": "0x13b51C04dbBE2a1D6bDF82dE746E9cc9F1E316ed",
-      "name": "MYNFT",
-      "type": "ERC721",
-      "symbol": "XDCNFT",
-      "maxLimit": 1
-    }
-  ],
-  "devnetTokens": [
-    {
-      "address": "",
-      "name": "DevXDC",
-      "type": "NATIVE",
-      "symbol": "DEVXDC",
-      "decimals": 18,
-      "maxLimit": 30
-    },
-    {
-      "address": "",
-      "name": "DEVFAUCETTEST",
-      "type": "ERC20",
-      "symbol": "DEVFAUCET",
-      "decimals": 18,
-      "maxLimit": 8
-    },
-    {
-      "address": "",
-      "name": "Dev Test NFT",
-      "type": "ERC721",
-      "symbol": "DEVNFT",
-      "maxLimit": 2
-    }
-  ]
 }
