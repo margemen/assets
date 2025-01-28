@@ -1,27 +1,27 @@
 {
     "footer": {
-        "copyRightsText": "BlocksScan.io All Rights Reserved",
+        "copyRightsText": "OpenScan.Ai All Rights Reserved",
         "donationAddress": "xdc58c43c37a2e74c34352a809c447c223455e21006"
     },
     "links": {
-        "knowledgeBase": "https://www.xdc.dev/blocksscan",
-        "aboutUs": "https://blocksscan.io/",
+        "knowledgeBase": "https://www.xdc.dev/openscan",
+        "aboutUs": "https://openscan.ai/",
         "analytics": "https://analytics.xdc.network/",
-        "contactUs": "https://blocksscan.io/#support",
-        "termsOfServices": "https://blocksscan.io/#services",
+        "contactUs": "https://openscan.ai/",
+        "termsOfServices": "https://openscan.ai/",
         "api": "https://docs.blocksscan.io/",
         "networkStatus": "http://stats.xinfin.network:3000/",
         "xdcNetwork": "https://xinfin.org/"
     },
     "social": {
-        "twitter": "https://twitter.com/blocksscan",
-        "github": "https://github.com/BlocksScan",
+        "twitter": "https://x.com/OpenScan_Ai",
+        "github": "https://github.com/OpenScanAI/",
         "facebook": "https://www.facebook.com/blocksscan",
         "instagram": "https://www.instagram.com/blocksscan",
-        "telegram": "https://t.me/BlocksScanIO",
+        "telegram": "https://t.me/OpenScanAi",
         "reddit": "",
-        "medium": "https://medium.com/@blocksscanio",
-        "youtube": "https://www.youtube.com/@BlocksScan",
+        "medium": "https://medium.com/@openscan",
+        "youtube": "https://www.youtube.com/@OpenScanAI",
         "coingecko": "",
         "coinmarketcap": ""
     },
