@@ -1,0 +1,14 @@
+{
+    "symbol": "USDC.e",
+    "name": "Bridged USDC(XDC)",
+    "description": "",
+    "website": "https://www.circle.com/usdc",
+    "communities": {
+        "email": "support@circle.com",
+        "twitter": "https://twitter.com/circle",
+        "linkedin": "https://www.linkedin.com/company/circle-internet-financial/",
+        "discord": "https://discord.com/invite/buildoncircle",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/usd-coin/",
+        "coingecko": "https://www.coingecko.com/en/coins/usd-coin/"
+    }
+}
