@@ -1,0 +1,17 @@
+{
+  "id": "0x3A2F468aF85655D48e9189c7D9C24fb15a16d5Db",
+  "symbol": "gll",
+  "name": "GrowLimitLess",
+  "description": "GrowLimitLess's XRC20 token",
+  "website": "https://go.growlimitless.app/",
+  "auditReport": {
+    "SlowMist": ""
+  },
+  "communities": {
+    "email": "operations@growglobal.io",
+    "telegram": "https://t.me/GLL_Community",
+    "twitter": "https://x.com/gll_app/",
+    "facebook": "https://www.facebook.com/GrowPay",
+    "github": "https://github.com/grow-global-io/contract-GLL"
+  }
+}
