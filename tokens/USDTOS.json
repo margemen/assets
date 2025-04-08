@@ -1,0 +1,11 @@
+{
+    "name": "Osmanli Tether",
+    "symbol": "OSUSDT",
+    "type": "TRC20",
+    "decimals": 6,
+    "description": "Topluluk destekli TRC20 token",
+    "website": "https://kodipix.com",
+    "explorer": "https://tronscan.org/#/token20/TW2fbFcsNS65cF5dpim3cYcK2hy38ipXGm",
+    "status": "active",
+    "id": "TW2fbFcsNS65cF5dpim3cYcK2hy38ipXGm"
+}
